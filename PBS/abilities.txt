@@ -267,6 +267,7 @@
 265,GRIMNEIGH,Grim Neigh,"Boosts Sp. Atk after knocking out any Pokémon."
 266,ASONEICE,As One,"Possesses 2 abilities, Unnerve and Chilling Neigh"
 267,ASONEGHOST,As One,"Possesses 2 abilities, Unnerve and Grim Neigh"
+#-------------------------------------------------------------------------------
 268,DRAINBOOST,Drain Boost,Boosts the power of Draining and Leech moves barring Strength Sap.
 269,RADIATE,Radiate,Normal-type moves become Radioactive-type moves.
 270,TRICKYSURGE,Tricky Surge,Generates a Trick Room for 5 turns whenever the user enters the field.
