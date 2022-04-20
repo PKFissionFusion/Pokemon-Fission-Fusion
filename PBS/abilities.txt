@@ -268,7 +268,7 @@
 266,ASONEICE,As One,"Possesses 2 abilities, Unnerve and Chilling Neigh"
 267,ASONEGHOST,As One,"Possesses 2 abilities, Unnerve and Grim Neigh"
 #-------------------------------------------------------------------------------
-268,DRAINBOOST,Drain Boost,Boosts the power of Draining and Leech moves barring Strength Sap.
+268,DRAINBOOST,Drain Boost,Boosts the power of most Draining and Leech moves.
 269,RADIATE,Radiate,Normal-type moves become Radioactive-type moves.
 270,TRICKYSURGE,Tricky Surge,Generates a Trick Room for 5 turns whenever the user enters the field.
 271,ROUGERAGE,Rouge Rage,Raises attack and lowers accuracy vs red or pink foes.
@@ -279,3 +279,7 @@
 276,WINDCHAMBER,Wind Chamber,"User increases its allies' speed by 10% upon entry for 3 turns."
 277,ARENACLEAR,Arena Clear,"User nullifies the effects of terrain on the field."
 278,THIRSTYROOTS,Thirsty Roots,"User doubles the healing power of Ingrain and Leech Seed."
+279,UNCHAINING,Unchaining,"Those that dare disturb Totemmon's meditation must face its wrath."
+280,CLAIRVOYANT,Clairvoyant,"Future Sight and charge moves take 1 less turn, at the cost of power."
+281,ICYAURA,Icy Aura,"Powers up each Pokémon's Ice-type moves."
+282,BUBBLINGSKIN,Bubbling Skin,User takes 1/4 hp in recoil if they use a Water-type move vs the opponent.

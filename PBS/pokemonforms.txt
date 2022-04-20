@@ -630,12 +630,20 @@ BattlerEnemyY = 17
 FormName = Westornian
 Type1 = FIGHTING
 Type2 = PSYCHIC
+BaseStats = 50,120,53,87,35,110
+Abilities = LIMBER,STEADFAST
+HiddenAbility = UNBURDEN
+Pokedex = Hitmonlee took to incorpoate meditation after battling to develop its awareness of the battle arena.
 Generation = 10
 #-------------------------------
 [HITMONCHAN,1]
 FormName = Westornian
 Type1 = FIGHTING
 Type2 = DARK
+BaseStats = 50,115,79,66,35,110
+Abilities = KEENEYE,IRONFIST
+HiddenAbility = TECHNICIAN
+Pokedex = Hitmonchan learned dark and uncrupulous battling techniques to aid itself in the arena and to survive.
 Generation = 10
 #-------------------------------
 [KOFFING,1]
@@ -858,66 +866,103 @@ Generation = 6
 FormName = Westornian
 Type1 = GRASS
 Type2 = PSYCHIC
+BaseStats = 45,49,65,45,59,55
+HiddenAbility = MAGICGUARD
+Pokedex = Chikorita of Westorn started eating and loving a certain plant. That plant caused a reaction that gave them Psychic powers.
 Generation = 10
 #-------------------------------
 [BAYLEEF,1]
 FormName = Westornian
 Type1 = GRASS
 Type2 = PSYCHIC
+BaseStats = 60,62,80,60,73,70
+HiddenAbility = MAGICGUARD
+Pokedex = The bayleef love their poisonous Foxglove plant. It gives them visions that they never had access to before.
 Generation = 10
 #-------------------------------
 [MEGANIUM,1]
 FormName = Westornian
 Type1 = GRASS
 Type2 = PSYCHIC
+BaseStats = 80,82,100,80,93,90
+HiddenAbility = MAGICGUARD
+Pokedex = Meganium's noxious fumes were once used in ancient times by the people of Westorn. The meganiums disappeared, but then reappeared when the Johtoan Chikoritas came back.
 Generation = 10
 #-------------------------------
 [CYNDAQUIL,1]
 FormName = Westornian
 Type1 = FIRE
 Type2 = GROUND
+BaseStats = 39,52,50,60,65,43
+HiddenAbility = SANDRUSH
+Pokedex = The Cyndaquils living in Westorn took refuge in Mount Helene after it last erupted years ago. In there, legend has it that Heatran gave Cyndaquils powers over the earth.
 Generation = 10
 #-------------------------------
 [QUILAVA,1]
 FormName = Westornian
 Type1 = FIRE
 Type2 = GROUND
+BaseStats = 58,64,65,75,85,58
+HiddenAbility = SANDRUSH
+Pokedex = Still fairly new at this. It can superheat its body to nearly 10,000 degrees! It can burn itself if it isn't careful.
 Generation = 10
 #-------------------------------
 [TYPHLOSION,1]
 FormName = Westornian
 Type1 = FIRE
 Type2 = GROUND
+BaseStats =78,84,83,95,114,80
+HiddenAbility = SANDRUSH
+Pokedex = Fully embracing the power of the earth, occasionally earthquakes can be felt near Mt. Helene, scaring people in Southpoint City of a potenital eruption. Usually, it's just a Typhlosion practicing.
 Generation = 10
 #-------------------------------
 [TOTODILE,1]
 FormName = Westornian
 Type1 = WATER
 Type2 = RADIOACTIVE
+BaseStats = 50,75,64,44,38,43
+HiddenAbility = SWIFTSWIM
+Pokedex = A result of radiation building up in their parents over time. They use this radiation to help them swim faster.
 Generation = 10
 #-------------------------------
 [CROCONAW,1]
 FormName = Westornian
 Type1 = WATER
 Type2 = RADIOACTIVE
+BaseStats = 65,90,80,58,54,59
+HiddenAbility = SWIFTSWIM
+Pokedex = Embracing its new radioactive powers, its bite is now twice as potent and it now can give radiation burns.
 Generation = 10
 #-------------------------------
 [FERALIGATR,1]
 FormName = Westornian
 Type1 = WATER
 Type2 = RADIOACTIVE
+BaseStats = 85,115,85,78,89,73
+HiddenAbility = SWIFTSWIM
+Pokedex = Feraligatr kept eating irradated prey. As a result all of itself and its children became part-radioactive.
 Generation = 10
 #-------------------------------
 [HOOTHOOT,1]
 FormName = Westornian
 Type1 = ICE
 Type2 = FLYING
+BaseStats = 60,20,20,60,46,56
+Abilities = SNOWCLOAK,OVERCOAT
+HiddenAbility = TINTEDLENS
+Color = White
+Pokedex = Hoothoots of Westorn took to the snow north of Westorn right as the war hit. Over time, they became whiter to blend in.
 Generation = 10
 #-------------------------------
 [NOCTOWL,1]
 FormName = Westornian
 Type1 = ICE
 Type2 = FLYING
+BaseStats = 100,40,40,80,96,96
+Abilities = SNOWCLOAK,OVERCOAT
+HiddenAbility = TINTEDLENS
+Color = White
+Pokedex = The Noctowls of Westorn lead their Hoothoot babies to the moutnains. Those few Noctowls who learned the art of evasion found that they could evolve.
 Generation = 10
 #-------------------------------
 [PICHU,2]
@@ -1207,12 +1252,18 @@ BattlerEnemyY = 11
 FormName = Westornian
 Type1 = FIGHTING
 Type2 = GHOST
+HiddenAbility = SCRAPPY
+Pokedex = Westorn's Tyrogue population was on steady decline, but a fateful encounter with Sak led it to develop a mistrust of humans and access to new spectral powers.
 Generation = 10
 #-------------------------------
 [HITMONTOP,1]
 FormName = Westornian
 Type1 = FIGHTING
 Type2 = GHOST
+BaseStats = 50,106,95,59,35,110
+HiddenAbility = SCRAPPY
+Color = Purple
+Pokedex = Hitmontop's newfound spectral abilities allowed it to get ahead of its competition while navigating the harsh post apocaltypic land.
 Generation = 10
 #-------------------------------
 [TYRANITAR,1]
@@ -1344,6 +1395,9 @@ BattlerEnemyY = 12
 FormName = Westornian
 Type1 = FIGHTING
 Type2 = FAIRY
+BaseStats = 30,40,55,60,40,55
+HiddenAbility = FRIENDGUARD
+Pokedex = The meditite of westorn adopted fairy magic when meditating to supercharge their willpower.
 Generation = 10
 #-------------------------------
 [MEDICHAM,1]
@@ -1360,6 +1414,9 @@ BattlerEnemyY = 18
 FormName = Westornian
 Type1 = FIGHTING
 Type2 = FAIRY
+BaseStats = 60,60,75,80,60,75
+HiddenAbility = FRIENDGUARD
+Pokedex = Fairy magic caused medicham to become more reclusive, but also helped it survive the Apocalypse by being able to tap into the feelings of others.
 Generation = 10
 #-------------------------------
 [MEDICHAM,3]
@@ -1368,7 +1425,7 @@ MegaStone = MEDICHAMITE
 BaseStats = 60,100,85,100,80,85
 BaseEXP = 179
 HiddenAbility = PUREPOWER
-Generation = 6
+Generation = 10
 #-------------------------------
 [MANECTRIC,1]
 FormName = Mega Manectric
@@ -1684,6 +1741,10 @@ BattlerPlayerY = 21
 FormName = Westornian
 Type1 = NORMAL
 Type2 = ICE
+BaseStats = 55,66,44,85,44,56
+Ability = RUNAWAY,SNOWCLOAK
+HiddenAbility = LIMBER
+Pokedex = The Bunearies of Westorn loved to snow, so much that they became pale as snow.
 Generation = 10
 #-------------------------------
 [LOPUNNY,1]
@@ -1706,6 +1767,10 @@ BattlerEnemyY = 18
 FormName = Westornian
 Type1 = NORMAL
 Type2 = ICE
+BaseStats = 65,76,84,105,54,96
+Ability = CUTECHARM,SNOWCLOAK
+HiddenAbility = LIMBER
+Pokedex = It is nearly impossible to find a Lopunny during a Nuclear Winter.
 Generation = 10
 #-------------------------------
 [LOPUNNY,3]
@@ -1867,25 +1932,34 @@ Type1 = ELECTRIC
 Type2 = RADIOACTIVE
 BaseStats = 50,65,107,86,105,107
 BaseEXP = 182
-Pokedex = This is Rotom after it's seized control of a lawn mower that has a special motor. As it mows down grass, it scatters the clippings everywhere.
+Pokedex = This is Rotom after it's seized control of a Geiger Counter. It is particularly good at both finding and emitting radiation.
 BattlerPlayerY = 1
 #-------------------------------
 [UXIE,1]
 FormName = Westornian
 Type1 = PSYCHIC
 Type2 = STEEL
+BaseStats = 75,65,140,75,85,120
+Ability = PSYCHICSURGE
+Pokedex = Over time, Uxie's defenses grew as it began to venture the war torn landscape warding off potential threats with the psychic energy from its intellect.
 Generation = 10
 #-------------------------------
 [MESPRIT,1]
 FormName = Westornian
 Type1 = PSYCHIC
 Type2 = FAIRY
+BaseStats = 80,85,115,80,105,115
+Ability = MISTYSURGE
+Pokedex = Over time, Mespirit's involvement with people grew as it began to venture the war torn landscape warding off potential threats with the powers of mending hurt emotions.
 Generation = 10
 #-------------------------------
 [AZELF,1]
 FormName = Westornian
 Type1 = PSYCHIC
 Type2 = FIGHTING
+BaseStats = 75,125,70,115,105,90
+Ability = ARENACLEAR
+Pokedex = Over time, Azelf's determination to survive grew as it began to venture the war torn landscape warding off potential threats with its strength.
 Generation = 10
 #-------------------------------
 [GIRATINA,1]
@@ -2008,12 +2082,20 @@ BattlerEnemyY = 21
 FormName = Westornian
 Type1 = GRASS
 Type2 = FAIRY
+BaseStats = 45,30,30,70,60,45
+Ability = CHLOROPHYLL,AROMAVEIL
+HiddenAbility = LEAFGUARD
+Pokedex = To survive the nuclear apocalypse, Petilils supercharged their armoatherapy powers to protect themselves.
 Generation = 10
 #-------------------------------
 [LILLIGANT,1]
 FormName = Westornian
 Type1 = GRASS
 Type2 = FAIRY
+BaseStats = 70,60,65,110,90,85
+Ability = CHLOROPHYLL,AROMAVEIL
+HiddenAbility = LEAFGUARD
+Pokedex = These Lilligant that came from the new Petilils were even cuter than the ones of the past. They're now even more pink and aromatic.
 Generation = 10
 #-------------------------------
 [BASCULIN,1]
@@ -2098,18 +2180,30 @@ Evolutions = RUNERIGUS,DamageDone,49
 FormName = Westornian
 Type1 = ICE
 Type2 = GHOST
+BaseStats = 36,44,47,53,65,60
+Ability = ICEBODY,SNOWWARNING
+HiddenAbility = WEAKARMOR
+Pokedex = The Vanillites of Westorn reacted very poorly to Chillsore's arrival.
 Generation = 10
 #-------------------------------
 [VANILLISH,1]
 FormName = Westornian
 Type1 = ICE
 Type2 = GHOST
+BaseStats = 51,59,62,68,80,75
+Ability = ICEBODY,SNOWWARNING
+HiddenAbility = WEAKARMOR
+Pokedex = The Vanillishes of Westorn reacted very poorly to Chillsore's arrival.
 Generation = 10
 #-------------------------------
 [VANILLUXE,1]
 FormName = Westornian
 Type1 = ICE
 Type2 = GHOST
+BaseStats = 71,79,82,98,110,95
+Ability = ICEBODY,SNOWWARNING
+HiddenAbility = WEAKARMOR
+Pokedex = The Vanilluxes of Westorn reacted very poorly to Chillsore's arrival.
 Generation = 10
 #-------------------------------
 [DEERLING,1]
@@ -2153,6 +2247,10 @@ BattlerEnemyY = 33
 FormName = Westornian
 Type1 = DRAGON
 Type2 = ROCK
+Ability = ROUGHSKIN
+HiddenAbility = SOLIDROCK
+BaseStats = 77,120,100,28,60,100
+Pokedex = To survive, Druddigons learned to eat cave rocks to survive. As a result, its scales turned rocky.
 Generation = 10
 #-------------------------------
 [TORNADUS,1]
