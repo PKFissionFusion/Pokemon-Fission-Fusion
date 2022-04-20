@@ -1,392 +1,833 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [000]
-Home = 3,7,5,8
-WildBattleBGM = Battle wild.mid
-TrainerBattleBGM = Battle trainer.mid
-WildVictoryME = Battle victory wild.ogg
-TrainerVictoryME = Battle victory trainer.ogg
-SurfBGM = Surfing.mid
-BicycleBGM = Bicycle.mid
-PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
-PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar004,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerC=POKEMONTRAINER_Brenden,trchar001,boy_bike,boy_surf_offset,boy_run_001,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerD=POKEMONTRAINER_Hilda,trchar005,girl_bike,girl_surf_offset,girl_run_001,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerE=POKEMONTRAINER_Max,trchar002,boy_bike,boy_surf_offset,boy_run_002,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerF=POKEMONTRAINER_Bertha,trchar006,girl_bike,girl_surf_offset,girl_run_002,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=31 Trainer Battle.ogg
+PlayerG=POKEMONTRAINER_Clemont,trchar003,boy_bike,boy_surf_offset,boy_run_003,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerH=POKEMONTRAINER_Janna,trchar007,girl_bike,girl_surf_offset,girl_run_003,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+SurfBGM=28 Surfing Theme.ogg
+BicycleBGM=48 Primavera's Theme.ogg
+Home=48,8,7,8
+WildBattleBGM=30 Wild Battle.ogg
 #-------------------------------
 [001]
 # Intro
 #-------------------------------
 [002]
-# Lappet Town
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,12
-BattleBack = field
+# Route 7 Padding
+MapPosition=0,17,16
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [003]
-# \PN's house
-HealingSpot = 2,8,8
-MapPosition = 0,13,12
+# Riverside City
+BattleBack=IndoorB
+Weather=Rain,50
+Bicycle=true
+MapPosition=0,6,13
+Outdoor=true
+HealingSpot=22,7,8
+ShowArea=true
 #-------------------------------
 [004]
-# Pokémon Lab
-ShowArea = false
-MapPosition = 0,13,12
+# Southpoint U.G. Gate
+MapPosition=0,13,12
+ShowArea=false
 #-------------------------------
 [005]
-# Route 1
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,11
-BattleBack = field
+# Olympic Swamp
+BattleBack=Forest
+Weather=Rain,75
+Bicycle=true
+MapPosition=0,9,11
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [006]
-# Kurt's house
-MapPosition = 0,13,11
+# Southpoint U.G.
+MapPosition=0,13,11
 #-------------------------------
 [007]
-# Cedolan City
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,10
-MapSize = 2,11
+# Fortuna Terrarium
+MapSize=2,11
+MapPosition=0,13,10
+Outdoor=false
+ShowArea=true
 #-------------------------------
 [008]
-# Daisy's house
-MapPosition = 0,13,12
+# Southpoint  U.G. Apts
+MapPosition=0,13,12
 #-------------------------------
 [009]
-# Cedolan City Poké Center
-HealingSpot = 8,17,11
-MapPosition = 0,14,10
+# Pokemon Center
+MapPosition=0,9,18
+HealingSpot=8,17,11
 #-------------------------------
 [010]
-# Cedolan Gym
-MapPosition = 0,13,10
-BattleBack = indoor3
-Environment = Rock
+# Olympian Forest #2
+BattleBack=Forest
+Weather=Rain,75
+Bicycle=true
+MapPosition=0,7,13
+HealingSpot=22,7,6
 #-------------------------------
 [011]
-# Pokémon Institute
-MapPosition = 0,14,10
+# Olympian Forest #3
+BattleBack=Forest
+Weather=Rain,75
+Bicycle=true
+MapPosition=0,7,13
+HealingSpot=22,7,6
 #-------------------------------
 [012]
-# Cedolan City Condo
-MapPosition = 0,14,10
+# Olympian Forest #4
+BattleBack=Forest
+Weather=Rain,75
+Bicycle=true
+MapPosition=0,7,13
+HealingSpot=22,7,6
 #-------------------------------
 [013]
-# Game Corner
-MapPosition = 0,14,10
+# padding
+MapPosition=0,14,10
 #-------------------------------
 [014]
-# Cedolan Dept. 1F
-MapPosition = 0,13,10
+MapPosition=0,13,10
 #-------------------------------
 [015]
-# Cedolan Dept. 2F
-MapPosition = 0,13,10
+MapPosition=0,13,10
 #-------------------------------
 [016]
-# Cedolan Dept. 3F
-MapPosition = 0,13,10
+MapPosition=0,13,10
 #-------------------------------
 [017]
-# Cedolan Dept. 4F
-MapPosition = 0,13,10
+MapPosition=0,13,10
 #-------------------------------
 [018]
-# Cedolan Dept. 5F
-MapPosition = 0,13,10
+MapPosition=0,13,10
 #-------------------------------
 [019]
-# Cedolan Dept. Rooftop
-MapPosition = 0,13,10
+MapPosition=0,13,10
 #-------------------------------
 [020]
-# Cedolan Dept. Elevator
-MapPosition = 0,13,10
+MapPosition=0,13,10
 #-------------------------------
 [021]
-# Route 2
-Outdoor = true
-ShowArea = true
-Weather = Rain,100
-MapPosition = 0,14,8
-BattleBack = field
-MapSize = 1,11
+MapSize=1,11
+Weather=Rain,50
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[022]
+# Pokecenter
+MapPosition=0,6,12
 #-------------------------------
 [023]
-# Lerucean Town
-Outdoor = true
-ShowArea = true
-MapPosition = 0,15,8
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [024]
-# Lerucean Town Poké Center
-HealingSpot = 23,11,15
-MapPosition = 0,15,8
+MapPosition=0,15,8
+HealingSpot=23,11,15
 #-------------------------------
 [025]
-# Lerucean Town Mart
-MapPosition = 0,15,8
+MapPosition=0,15,8
 #-------------------------------
 [026]
-# Pokémon Fan Club
-MapPosition = 0,15,8
+MapPosition=0,15,8
 #-------------------------------
 [027]
-# Pokémon Day Care
-MapPosition = 0,15,8
+MapPosition=0,15,8
 #-------------------------------
 [028]
-# Natural Park
-Outdoor = true
-ShowArea = true
-MapPosition = 0,16,8
-BattleBack = field
+BattleBack=Forest
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [029]
-# Natural Park Entrance
-Bicycle = true
-MapPosition = 0,16,8
+Bicycle=true
+MapPosition=0,16,8
 #-------------------------------
 [030]
-# Natural Park Pavillion
-MapPosition = 0,16,8
+MapPosition=0,16,8
 #-------------------------------
 [031]
-# Route 3
-Outdoor = true
-ShowArea = true
-MapPosition = 0,14,6
-BattleBack = field
-MapSize = 2,1101
+MapSize=2,1101
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[032]
+# Pokemon Center
+MapPosition=0,9,13
+#-------------------------------
+[033]
+# Riverside U.G.
+MapPosition=0,6,12
+HealingSpot=22,7,8
 #-------------------------------
 [034]
-# Ice Cave
-Bicycle = true
-MapPosition = 0,15,6
-BattleBack = cave1
-Environment = Cave
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,15,6
 #-------------------------------
 [035]
-# Ingido Plateau
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,6
+MapPosition=0,13,6
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [036]
-# Pokémon League
-HealingSpot = 35,17,7
-MapPosition = 0,13,6
+MapPosition=0,13,6
+HealingSpot=35,17,7
 #-------------------------------
 [037]
-# Pokémon League
-MapPosition = 0,13,6
-BattleBack = elite1
+BattleBack=EliteA
+MapPosition=0,13,6
 #-------------------------------
 [038]
-# Hall of Fame
-MapPosition = 0,13,6
+MapPosition=0,13,6
 #-------------------------------
 [039]
-# Route 4
-Outdoor = true
-ShowArea = true
-MapPosition = 0,11,6
-BattleBack = field
-MapSize = 2,11
+MapSize=2,11
+MapPosition=0,11,6
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [040]
-# Route 4
-Outdoor = true
-ShowArea = true
-BicycleAlways = true
-MapPosition = 0,11,6
+MapPosition=0,11,6
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
 #-------------------------------
 [041]
-# Route 5
-Outdoor = true
-ShowArea = true
-BicycleAlways = true
-MapPosition = 0,11,7
-MapSize = 1,111
+MapSize=1,111
+MapPosition=0,11,7
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+#-------------------------------
+[042]
+# Riverside Apts
+MapPosition=0,6,12
+#-------------------------------
+[043]
+# Riverside U.G. Gate
+MapPosition=0,6,12
 #-------------------------------
 [044]
-# Route 6
-Outdoor = true
-ShowArea = true
-MapPosition = 0,11,10
-BattleBack = field
-MapSize = 2,11
+MapSize=2,11
+MapPosition=0,11,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [045]
-# Route 6
-Outdoor = true
-ShowArea = true
-BicycleAlways = true
-MapPosition = 0,11,10
+MapPosition=0,11,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
 #-------------------------------
 [046]
-# Cycling Road gate
-Bicycle = true
-MapPosition = 0,12,6
+Bicycle=true
+MapPosition=0,12,6
 #-------------------------------
 [047]
-# Route 7
-Outdoor = true
-ShowArea = true
-Weather = Rain,0
-MapPosition = 0,15,10
-BattleBack = rocky
-MapSize = 2,11
-Environment = Rock
+MapSize=2,11
+BattleBack=Mountain
+Weather=Rain,0
+MapPosition=0,15,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[048]
+# \PN's House
+MapPosition=0,6,12
 #-------------------------------
 [049]
-# Rock Cave
-Bicycle = true
-MapPosition = 0,16,10
-BattleBack = cave1
-Environment = Cave
+Bicycle=true
+MapPosition=0,16,10
 #-------------------------------
 [050]
-# Rock Cave
-Bicycle = true
-MapPosition = 0,16,10
-DarkMap = true
-BattleBack = cave3
-Environment = Cave
+BattleBack=CaveDark
+Bicycle=true
+MapPosition=0,16,10
+DarkMap=true
 #-------------------------------
 [051]
-# Dungeon
-Bicycle = true
-MapPosition = 0,16,10
-Dungeon = true
-BattleBack = cave2
-Environment = Cave
+Bicycle=true
+Dungeon=true
+MapPosition=0,16,10
 #-------------------------------
 [052]
-# Battle Frontier
-Outdoor = true
-ShowArea = true
-MapPosition = 0,17,10
+MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [053]
-# Battle Frontier Poké Center
-HealingSpot = 52,17,14
-MapPosition = 0,17,10
+MapPosition=0,17,10
+HealingSpot=52,17,14
 #-------------------------------
 [054]
-# Battle Frontier Mart
-MapPosition = 0,17,10
+MapPosition=0,17,10
 #-------------------------------
 [055]
-# Battle Tower
-HealingSpot = 52,30,10
-MapPosition = 0,17,10
+MapPosition=0,17,10
+HealingSpot=52,30,10
 #-------------------------------
 [056]
-# Battle Tower arena
-MapPosition = 0,17,10
-BattleBack = indoor1
+BattleBack=EliteA
+MapPosition=0,17,10
 #-------------------------------
 [057]
-# Stadium Cup lobby
-MapPosition = 0,17,10
+MapPosition=0,17,10
 #-------------------------------
 [058]
-# Battle Palace
-MapPosition = 0,17,10
+MapPosition=0,17,10
 #-------------------------------
 [059]
-# Battle Palace arena
-MapPosition = 0,17,10
-BattleBack = indoor1
+BattleBack=EliteD
+MapPosition=0,17,10
 #-------------------------------
 [060]
-# Battle Arena
-MapPosition = 0,17,10
+MapPosition=0,17,10
 #-------------------------------
 [061]
-# Battle Arena arena
-MapPosition = 0,17,10
-BattleBack = indoor1
+BattleBack=EliteB
+MapPosition=0,17,10
 #-------------------------------
 [062]
-# Battle Factory
-MapPosition = 0,17,10
+MapPosition=0,17,10
 #-------------------------------
 [063]
-# Battle Factory intro corridor
-MapPosition = 0,17,10
+MapPosition=0,17,10
 #-------------------------------
 [064]
-# Battle Factory arena
-MapPosition = 0,17,10
-BattleBack = indoor1
+BattleBack=EliteC
+MapPosition=0,17,10
 #-------------------------------
 [065]
-# Battle Factory corridor
-MapPosition = 0,17,10
+MapPosition=0,17,10
 #-------------------------------
 [066]
-# Safari Zone
-Outdoor = true
-ShowArea = true
-MapPosition = 0,12,12
-BattleBack = field
+MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [067]
-# Safari Zone gate
-MapPosition = 0,12,12
+MapPosition=0,12,12
 #-------------------------------
 [068]
-# Safari Zone
-Outdoor = true
-ShowArea = true
-MapPosition = 0,12,12
-SafariMap = true
-BattleBack = forest
-Environment = Forest
+BattleBack=Forest
+MapPosition=0,12,12
+SafariMap=true
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [069]
-# Route 8
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,13
-DiveMap = 70
-BattleBack = field
+DiveMap=70
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [070]
-# Underwater
-MapPosition = 0,13,13
-BattleBack = underwater
-Environment = Underwater
+MapPosition=0,13,13
 #-------------------------------
 [071]
-# Harbor
-MapPosition = 0,13,13
+MapPosition=0,13,13
 #-------------------------------
 [072]
-# Berth Island
-Outdoor = true
-ShowArea = true
-Weather = Storm,50
-MapPosition = 0,18,17
-BattleBack = field
+Weather=Storm,50
+MapPosition=0,18,17
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [073]
-# Faraday Island
-Outdoor = true
-ShowArea = true
-MapPosition = 0,22,16
-BattleBack = field
+MapPosition=0,22,16
+Outdoor=true
+ShowArea=true
 #-------------------------------
 [074]
-# Cycling Road gate
-Bicycle = true
-MapPosition = 0,12,10
+Bicycle=true
+MapPosition=0,12,10
 #-------------------------------
 [075]
-# Tiall Region
-Outdoor = true
-MapPosition = 1,13,16
-BattleBack = city
+MapPosition=1,13,16
+Outdoor=true
+#-------------------------------
+[076]
+# Route 1
+SnapEdges=false
+Bicycle=true
+MapPosition=0,6,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[077]
+# Route 2
+SnapEdges=false
+Weather=Rain,50
+Bicycle=true
+MapPosition=0,7,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[078]
+# Meadow Town
+Bicycle=true
+MapPosition=0,6,15
+Outdoor=true
+HealingSpot=22,7,9
+ShowArea=true
+#-------------------------------
+[079]
+# Meadow Town U.G. Gate
+MapPosition=0,6,15
+#-------------------------------
+[080]
+# Olympian Forest
+SnapEdges=false
+BattleBack=Forest
+Weather=Rain,100
+MapPosition=0,7,13
+HealingSpot=81,12,8
+ShowArea=true
+#-------------------------------
+[081]
+Bicycle=true
+Outdoor=true
+#-------------------------------
+[082]
+# Meadow Town Underground
+MapPosition=0,6,15
+HealingSpot=22,7,9
+#-------------------------------
+[083]
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+#-------------------------------
+[084]
+# Route 2
+SnapEdges=false
+Weather=Rain,50
+MapPosition=0,8,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[085]
+# Olympian City
+SnapEdges=false
+Bicycle=true
+MapPosition=0,9,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[086]
+Outdoor=true
+HealingSpot=85,18,22
+#-------------------------------
+[087]
+Bicycle=true
+MapPosition=0,9,13
+Outdoor=true
+#-------------------------------
+[088]
+# Olympian Underground Gate
+MapPosition=0,9,13
+#-------------------------------
+[089]
+# Olympian Underground
+MapPosition=0,9,13
+#-------------------------------
+[090]
+Outdoor=true
+#-------------------------------
+[091]
+# Olympian U.G. Apts
+MapPosition=0,9,13
+#-------------------------------
+[092]
+# NPC Apt 1
+MapPosition=0,9,13
+#-------------------------------
+[093]
+# Govt. Base
+MapPosition=0,9,13
+#-------------------------------
+[094]
+# Olympian  Gym
+MapPosition=0,9,13
+#-------------------------------
+[095]
+MapPosition=0,9,13
+#-------------------------------
+[096]
+MapPosition=0,9,13
+#-------------------------------
+[097]
+MapPosition=0,9,13
+#-------------------------------
+[098]
+MapPosition=0,9,13
+#-------------------------------
+[099]
+MapPosition=0,9,13
+#-------------------------------
+[100]
+MapPosition=0,9,13
+#-------------------------------
+[101]
+MapPosition=0,9,13
+#-------------------------------
+[102]
+# Route 3
+MapSize=2,
+SnapEdges=false
+Bicycle=true
+MapPosition=0,10,13
+Outdoor=true
+#-------------------------------
+[103]
+# Dark Cave 
+MapSize=1,
+BattleBack=CaveDark
+MapPosition=0,11,13
+Outdoor=false
+#-------------------------------
+[104]
+# Route 4
+MapSize=1,
+SnapEdges=false
+Bicycle=true
+MapPosition=0,11,12
+Outdoor=true
+#-------------------------------
+[105]
+# Fortuna City
+SnapEdges=false
+MapPosition=0,10,11
+Outdoor=true
+#-------------------------------
+[106]
+# Mountan Overpass Entrance
+SnapEdges=false
+MapPosition=0,11,11
+Outdoor=true
+#-------------------------------
+[107]
+# Route 5
+MapSize=1,2
+SnapEdges=false
+MapPosition=0,9,14
+Outdoor=true
+#-------------------------------
+[108]
+# Belmont Town
+SnapEdges=false
+Bicycle=true
+MapPosition=0,9,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[109]
+# Poisoned Grotto
+SnapEdges=false
+Bicycle=true
+MapPosition=0,9,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[110]
+# Spot One Ruins
+MapPosition=0,9,16
+#-------------------------------
+[111]
+# Nuclear Cleaning Facility
+MapPosition=0,9,16
+#-------------------------------
+[112]
+# Route 6
+Bicycle=true
+MapPosition=0,9,17
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[113]
+# Mt. Helene
+MapPosition=0,10,16
+#-------------------------------
+[114]
+# Southpoint City
+MapSize=1,
+Weather=Rain,50
+Bicycle=true
+MapPosition=0,8,18
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[115]
+# Route 7
+MapSize=4,
+Weather=Sun,50
+Bicycle=true
+MapPosition=0,14,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[116]
+# Tri-South
+Weather=Sun,50
+Bicycle=true
+MapPosition=0,18,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[117]
+# Tri-North
+MapSize=2,
+Weather=Sun,50
+Bicycle=true
+MapPosition=0,18,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[118]
+# Tri-East
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,19,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[119]
+# Oasis
+Weather=Sun,50
+Bicycle=false
+MapPosition=0,19,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[120]
+# Barren Desert
+Weather=Sun,25
+Bicycle=true
+MapPosition=0,20,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[121]
+# Lost Ruins
+Weather=Sandstorm,100
+Bicycle=false
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[123]
+# Seasparkle Town
+SnapEdges=false
+Bicycle=true
+MapPosition=0,2,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[124]
+# Route 20
+SnapEdges=false
+Bicycle=true
+MapPosition=1,3,10
+Outdoor=true
+#-------------------------------
+[125]
+# Milford Farm
+SnapEdges=false
+Bicycle=true
+MapPosition=0,4,13
+Outdoor=true
+#-------------------------------
+[126]
+# Dark Cave
+BattleBack=CaveDark
+MapPosition=0,10,13
+#-------------------------------
+[127]
+# Bike Guy's Home
+MapPosition=0,9,13
+#-------------------------------
+[128]
+# Route 20
+SnapEdges=false
+Bicycle=true
+MapPosition=0,5,13
+Outdoor=true
+#-------------------------------
+[129]
+# MAP129
+SnapEdges=false
+MapPosition=1,3,10
+Outdoor=true
+#-------------------------------
+[130]
+# MAP130
+Weather=Rain,100
+Bicycle=true
+MapPosition=0,6,16
+Outdoor=true
+#-------------------------------
+[131]
+# MAP131
+SnapEdges=false
+Bicycle=true
+MapPosition=1,3,10
+Outdoor=true
+#-------------------------------
+[132]
+# Wishing Well
+BattleBack=CaveDark
+MapPosition=1,3,9
+#-------------------------------
+[140]
+SnapEdges=false
+MapPosition=1,3,10
+Outdoor=true
+#-------------------------------
+[141]
+# Fortuna U.G. Gate
+MapPosition=0,10,11
+#-------------------------------
+[142]
+# Fortuna U.G.
+MapPosition=0,10,11
+#-------------------------------
+[143]
+# Fortuna U.G. Apts
+MapPosition=0,10,11
+#-------------------------------
+[144]
+# Fortuna Gym
+SnapEdges=false
+MapPosition=0,10,11
+#-------------------------------
+[145]
+# Pokemon Center
+MapPosition=0,10,11
+#-------------------------------
+[146]
+# Chestnut Labs
+MapPosition=0,10,11
+#-------------------------------
+[147]
+# NPC Apts
+MapPosition=0,10,11
+#-------------------------------
+[148]
+MapPosition=0,10,11
+#-------------------------------
+[149]
+MapPosition=0,10,11
+#-------------------------------
+[150]
+# Route W05-south
+MapSize=1,2
+SnapEdges=false
+Bicycle=true
+MapPosition=0,9,15
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[151]
+Bicycle=true
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[152]
+# More Padding
+Weather=Rain,100
+Bicycle=true
+MapPosition=0,6,16
+Outdoor=true
+#-------------------------------
+[154]
+# Southpoint Bay
+Weather=Rain,50
+Bicycle=true
+MapPosition=0,8,18
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[155]
+# Yucca Mtn
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,18,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[156]
+# Route 8
+Weather=Sun,50
+Bicycle=true
+MapPosition=0,19,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[157]
+# Bushfire Town
+Weather=Sun,100
+Bicycle=true
+MapPosition=0,19,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[158]
+# Uranium Mine
+MapPosition=0,16,8
+#-------------------------------
+[159]
+# Route 9
+MapSize=4,
+Weather=Sun,50
+Bicycle=true
+MapPosition=0,17,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[160]
+# Route 10
+MapSize=3,
+Weather=Sun,50
+Bicycle=true
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[162]
+# Ground Zero
+MapSize=2,
+Weather=Rain,75
+Bicycle=true
+MapPosition=0,11,8
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[163]
+# Cold Fusion Plant
+MapPosition=0,19,15
+#-------------------------------
+[164]
+# Quiet Cave
+MapPosition=0,6,16
+#-------------------------------
+[167]
+# Route 7
+Weather=Sandstorm,50
+Bicycle=true
+MapPosition=0,16,16
+Outdoor=true
+ShowArea=true

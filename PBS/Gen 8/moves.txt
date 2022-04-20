@@ -758,17 +758,3 @@
 739,LIFEDEW,Life Dew,17E,0,WATER,Status,0,10,0,UserAndAllies,0,d,"The user scatters mysterious water around and restores the HP of itself."
 740,SURGINGSTRIKES,Surging Strikes,188,25,WATER,Physical,100,5,0,NearOther,0,abef,"Strikes the target thrice, with mastery of the Water style. Always results in a critical hit."
 741,FLIPTURN,Flip Turn,0EE,60,WATER,Physical,100,20,0,NearOther,0,abef,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
-#-------------------------------
-742,ALPHABLAST,Alpha Blast,CF7,110,RADIOACTIVE,Special,85,5,10,NearOther,0,bef,"The foe is attacked with an intense blast of alpha particles. It may also leave the target with a burn."
-743,GLITTERSTRIKE,Glittering Strike,000,40,FAIRY,Physical,100,30,0,NearOther,1,abef,The user bathes itself in glittering fairy magic to propel itself at at the opponent. It is sure to strike first.
-744,GAMMABEAM,Gamma Beam,CF7,95,RADIOACTIVE,Special,95,15,10,NearOther,0,bef,"The foe is attacked with an intense beam of gamma radiation. It may also leave the target with radiation sickness."
-745,GAMMASHOT,Gamma Shot,CF7,50,RADIOACTIVE,Special,100,25,10,NearOther,0,bef,"The foe is attacked with a short beam of gamma radiation. It may also leave the target with radiation sickness."
-746,POISONDRAIN,Poisonous Drain,0DD,75,RADIOACTIVE,Special,100,10,0,NearOther,0,be,A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.,
-747,GLIDINGSTRIKE,Gliding Strike,0A9,90,FLYING,Physical,100,15,0,NearOther,0,abef,The user attacks by slicing with its long claws. The target's stat changes don't affect the damage.
-748,BETAPIERCE,Beta Pierce,0A5,60,RADIOACTIVE,Physical,0,20,0,NearOther,0,bef,The user strikes the target with a quick jolt of electricity. This attack cannot be evaded.
-749,GLOWSTONETHROW,Glowstone Throw,CF7,50,RADIOACTIVE,Physical,90,15,0,NearOther,0,bef,The user picks up and throws a small radioactive rock at the target to attack. May leave target with radiation sickness."
-750,BETABASH,Beta Bash,0FC,150,RADIOACTIVE,Physical,100,15,10,NearOther,0,abef,"A reckless, life-risking tackle. It also damages the user by a fairly large amount, however."
-751,NUCLEARRAGE,Nuclear Rage,0D2,120,RADIOACTIVE,Physical,100,10,0,NearOther,2,abef,"The user rampages and attacks for two to three turns. It then becomes confused, however."
-752,IRRADIATE,Irradiate,CF7,0,RADIOACTIVE,Status,90,10,0,NearOther,0,bce,"A move that leaves the target with radiation sickness."
-753,ICEEDGE,Ice Edge,000,100,ICE,Physical,80,5,0,NearOther,0,befh,The user stabs the foe with sharpened blocks of ice from below. It has a high critical-hit ratio.
-754,SUNNYSTRIKE,Sunny Strike,0FF,110,FIRE,Physical,75,5,0,NearOther,0,befh,The user stabs the foe with sharpened blocks of ice from below. It has a high critical-hit ratio.

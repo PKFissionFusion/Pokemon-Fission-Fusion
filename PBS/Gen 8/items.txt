@@ -817,28 +817,3 @@
 796,TR97,TR97,TR97s,4,10000,"The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",6,0,0,PSYCHICFANGS
 797,TR98,TR98,TR98s,4,6000,"The user slams into the target using a full-force blast of water. May also lower the target's Defense stat.",6,0,0,LIQUIDATION
 798,TR99,TR99,TR99s,4,6000,"The user attacks by slamming its body into the target. Damages more the higher the user's Defense.",6,0,0,BODYPRESS
-#----------------------------------------------------
-799,GLOWINGPLATE,Glowing Plate,Glowing Plates,1,1000,An item to be held by a Pokémon. It is a stone tablet that boosts the power of Radioactive-type moves.,0,0,0,
-800,RADIOACTIVEGEM,Radioactive Gem,Radioactive Gems,1,200,"A gem with an essence of nature. When held, it strengthens the power of a Radioactive-type move one time.",0,0,0,
-801,TRADPILL,T-Radpill,T-Radpills,1,50,"A radpill to be taken by the trainer. It reduces the player's Radiation Accumulation by 100. Not for pokemon.",2,0,0
-802,SUPETRADPILL,Super T-Radpill,Super T-Radpills,1,100,"A radpill to be taken by the trainer. It reduces the player's Radiation Accumulation by 200. Not for pokemon.",2,0,0
-803,HYPETRRADPILL,Hyper T-Radpill,Hyper T-Radpills,1,500,"A radpill to be taken by the trainer. It reduces the player's Radiation Accumulation by 500. Not for pokemon.",2,0,0
-804,MAXTRADPILL,Max T-Radpill,Max T-Radpills,1,1000,"A radpill to be taken by the trainer. It resets the player's Radiation Accumulation completely. Not for pokemon.",2,0,0
-805,PRADPILL,P-Radpill,P-Radpills,8,20,"A radpill specially formulated to give to your pokemon to reduce its Radiation Accumulation by 1000 rads.",1,0,0
-806,SUPERPRADPILL,Super P-Radpill,Super P-Radpills,8,50,"A radpill specially formulated to give to your pokemon to reduce its Radiation Accumulation by 2000 rads.",1,0,0
-807,HYPERPRADPILL,Hyper P-Radpill,Hyper P-Radpills,8,125,"A radpill specially formulated to give to your pokemon to reduce its Radiation Accumulation by 5000 rads.",1,0,0
-808,MAXPRADPILL,Max P-Radpill,Max P-Radpills,2,250,"A radpill specially formulated to give to your pokemon to elimanate its Radiation Accumulation.",1,0,0
-809,GEIGERINTERFACE,Rotom Geiger Counter,Rotom Geiger Counters,8,0,"It monitors the radiation level of the surrounding level and how much radiation you and your pokemon have accumulated.",2,0,6
-810,LEADPILL,Lead Pill,Lead Pills,2,100,"An item to cure your Pokemon of radiation sickness. May have nasty side-effects.",1,1,0
-811,SUPERLPILL,Super Lead Pill,Super Lead Pills,2,500,"An item to cure your Pokemon of radiation sickness. Will not have nasty side-effects.",1,1,0
-812,MOONPLATE,Moon Plate,Moon Plates,1,1000,An item to be held by a Pokémon. It is said to be imbued with the power of Lunalaa.,0,0,0,
-813,GRANBULLITE,Granbullite,Granbullites,1,1000,"One of the mysterious Mega Stones. Have Granbull hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
-814,ULTRATRADPILL,Ultra T-Radpill,Ultra T-Radpill,2,500,"A radpill to be taken by the trainer. It reduces the player's Radiation Accumulation by 1000. Not for pokemon.",2,0,0
-815,PIXIESTONE,Pixie Stone,Pixie Stones,1,2100,"A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light pink.",1,0,0,
-816,GLOWSTONE,Glowing Stone,Glowing Stones,1,2100,"A peculiar stone that makes certain species of Pokémon evolve. It is a bright, lime-green.",1,0,0,
-817,EEVEELUTIONITE,Eeveelutionite,Eeveelutionites,1,1000,"One of the mysterious Mega Stones. Have a certain eevee evolution hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
-818,PORYGONITE,Data Drive Z,Data Drive Zs,1,1000,"Have Porygon-Z hold it, and this dat adrive will enable it to Mega Evolve in battle.",0,0,0,
-819,GLISCORITE,Gliscorite,Gliscorites,1,1000,"One of the mysterious Mega Stones. Have Gliscor hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
-820,DUNSPARCITE,Dunsparceite,Dunsparceites,1,1000,"One of the mysterious Mega Stones. Have Dunsparce hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
-821,ZANGOOSITE,Zangoosite,Zangoosites,1,1000,"One of the mysterious Mega Stones. Have Zangoose hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
-822,SEVIPERITE,Seviperite,Seviperites,1,1000,"One of the mysterious Mega Stones. Have Seviper hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,

@@ -267,12 +267,3 @@
 265,GRIMNEIGH,Grim Neigh,"Boosts Sp. Atk after knocking out any Pokémon."
 266,ASONEICE,As One,"Possesses 2 abilities, Unnerve and Chilling Neigh"
 267,ASONEGHOST,As One,"Possesses 2 abilities, Unnerve and Grim Neigh"
-268,DRAINBOOST,Drain Boost,Boosts the power of Draining and Leech moves barring Strength Sap.
-269,RADIATE,Radiate,Normal-type moves become Radioactive-type moves.
-270,TRICKYSURGE,Tricky Surge,Generates a Trick Room for 5 turns whenever the user enters the field.
-271,ROUGERAGE,Rouge Rage,Raises attack and lowers accuracy vs red or pink foes.
-272,RADBOOST,Radboost,Raises power of special moves when radsick.
-273,SICKLYTOUCH,Sickly Touch,30% chance for opponent to get radsick upon contact.
-274,FLAMMABLESKIN,Flammable Skin,User takes 1/4 hp in recoil if they use a Fire-type move vs the opponent.
-275,RADDRIZZLE,Acid Call,User summons an acid rainstorm upon entry.
-276,WINDCHAMBER,Wind Chamber,"User increases its allies' speed by 10% upon entry for 3 turns."

@@ -38,3 +38,133 @@
 47,E,8,52,W,0
 # Route 2 (21) - Route 7 (47)
 21,E,77,47,W,0
+# Route 8 (156) - Route 9 (159)
+156,West,0,159,East,35
+# Bushfire Town (157) - Route 9 (159)
+157,West,0,159,East,0
+# Bushfire Town (157) - Route 8 (156)
+157,South,0,156,North,0
+# Fortuna City (105) - Route 4 (104)
+105,South,4,104,North,0
+# Mountan Overpass Entrance (106) - Route 4 (104)
+106,West,51,104,East,0
+# Mountan Overpass Entrance (106) - Fortuna City (105)
+106,West,0,105,East,0
+# Yucca Mtn (155) - Tri-South (116)
+155,North,0,116,South,0
+# Tri-North (117) - Tri-South (116)
+117,South,0,116,North,0
+# Route 7 Padding (2) - Tri-South (116)
+2,East,30,116,West,0
+# NE Padding (168) - Tri-South (116)
+168,South,0,116,North,54
+# Oasis (119) - Tri-South (116)
+119,West,0,116,East,0
+# SE Padding (169) - Tri-South (116)
+169,North,0,116,South,54
+# Route 7 (167) - Yucca Mtn (155)
+167,South,74,155,North,0
+# Route 7 Padding (2) - Yucca Mtn (155)
+2,East,66,155,West,0
+# Tri-East (118) - Yucca Mtn (155)
+118,West,36,155,East,0
+# NE Padding (168) - Yucca Mtn (155)
+168,West,66,155,East,0
+# Oasis (119) - Yucca Mtn (155)
+119,South,0,155,North,26
+# SE Padding (169) - Yucca Mtn (155)
+169,West,0,155,East,0
+# Route 7 Padding (2) - Tri-North (117)
+2,East,0,117,West,0
+# Tri-East (118) - Tri-North (117)
+118,West,0,117,East,30
+# NE Padding (168) - Tri-North (117)
+168,West,0,117,East,0
+# Oasis (119) - Tri-North (117)
+119,North,0,117,South,26
+# SE Padding (169) - Tri-North (117)
+169,West,0,117,East,66
+# Route 7 Padding (2) - Route 7 (167)
+2,West,21,167,East,0
+# SE Padding (169) - Route 7 (167)
+169,North,0,167,South,128
+# NE Padding (168) - Tri-East (118)
+168,South,0,118,North,0
+# Oasis (119) - Tri-East (118)
+119,East,0,118,West,0
+# SE Padding (169) - Tri-East (118)
+169,North,0,118,South,0
+# Barren Desert (120) - Tri-East (118)
+120,West,30,118,East,0
+# Oasis (119) - NE Padding (168)
+119,North,28,168,South,0
+# Barren Desert (120) - NE Padding (168)
+120,West,0,168,East,0
+# SE Padding (169) - Oasis (119)
+169,West,0,119,East,36
+# Barren Desert (120) - SE Padding (169)
+120,West,66,169,East,0
+# Southpoint City (114) - Southpoint Bay (154)
+114,South,0,154,North,0
+# Poisoned Grotto (109) - Southpoint Bay (154)
+109,East,103,154,West,0
+# Olympian City (85) - Route 2 (84)
+85,West,6,84,East,0
+# Route W05-south (150) - Belmont Padding (161)
+150,East,42,161,West,0
+# Route 6 (112) - Belmont Padding (161)
+112,North,40,161,South,0
+# Route 5 (107) - Belmont Padding (161)
+107,East,88,161,West,0
+# Belmont Town (108) - Belmont Padding (161)
+108,East,0,161,West,0
+# Route 5 (107) - Route W05-south (150)
+107,South,0,150,North,0
+# Belmont Town (108) - Route W05-south (150)
+108,North,0,150,South,0
+# Poisoned Grotto (109) - Route W05-south (150)
+109,East,0,150,West,46
+# Olympian City (85) - padding (13)
+85,East,0,13,West,7
+# Route 3 (102) - padding (13)
+102,North,0,13,South,0
+# Belmont Town (108) - Route 6 (112)
+108,South,0,112,North,0
+# Southpoint City (114) - Route 6 (112)
+114,North,0,112,South,0
+# Poisoned Grotto (109) - Route 6 (112)
+109,East,36,112,West,0
+# Route 5 (107) - Olympian City (85)
+107,North,0,85,South,9
+# Route 3 (102) - Olympian City (85)
+102,West,0,85,East,8
+# Poisoned Grotto (109) - Route 5 (107)
+109,East,0,107,West,92
+# Poisoned Grotto (109) - Belmont Town (108)
+109,East,0,108,West,4
+# Poisoned Grotto (109) - Southpoint City (114)
+109,East,72,114,West,0
+# Riverside City (3) - Route 2 (77)
+3,East,0,77,West,4
+# Route 1 (76) - Route 2 (77)
+76,North,39,77,South,0
+# More Padding (152) - Meadow Town (78)
+152,North,19,78,South,0
+# MAP130 (130) - Meadow Town (78)
+130,North,0,78,South,18
+# Route 1 (76) - Meadow Town (78)
+76,South,0,78,North,5
+# Route 20 (124) - Route 20 (128)
+124,East,0,128,West,0
+# Riverside City (3) - Route 20 (128)
+3,West,2,128,East,0
+# Route 1 (76) - Route 20 (128)
+76,West,0,128,East,44
+# Milford Farm (125) - Route 20 (124)
+125,East,0,124,West,10
+# Route 1 (76) - Route 20 (124)
+76,North,0,124,South,54
+# Route 1 (76) - Riverside City (3)
+76,North,0,3,South,0
+# MAP130 (130) - More Padding (152)
+130,West,0,152,East,0

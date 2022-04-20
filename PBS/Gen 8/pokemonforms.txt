@@ -11,8 +11,7 @@ Height = 2.4
 Weight = 155.5
 Pokedex = In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
 Generation = 6
-BattlerPlayerY = 14
-BattlerEnemyY = 15
+BattlerEnemyY = 19
 #-------------------------------
 [CHARIZARD,1]
 FormName = Mega Charizard X
@@ -27,8 +26,9 @@ Weight = 110.5
 Color = Black
 Pokedex = The overwhelming power that fills its entire body causes it to turn black and create intense blue flames.
 Generation = 6
-BattlerPlayerY = 7
-BattlerEnemyY = 11
+BattlerPlayerX = 10
+BattlerPlayerY = 45
+BattlerEnemyX = 10
 #-------------------------------
 [CHARIZARD,2]
 FormName = Mega Charizard Y
@@ -40,7 +40,8 @@ HiddenAbility = DROUGHT
 Weight = 100.5
 Pokedex = Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
 Generation = 6
-BattlerPlayerY = 7
+BattlerPlayerX = 6
+BattlerEnemyX = 1
 BattlerEnemyY = 10
 #-------------------------------
 [BLASTOISE,1]
@@ -53,8 +54,9 @@ HiddenAbility = MEGALAUNCHER
 Weight = 101.1
 Pokedex = The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
 Generation = 6
-BattlerPlayerY = 8
-BattlerEnemyY = 9
+BattlerPlayerY = 42
+BattlerEnemyX = -12
+BattlerEnemyY = 10
 #-------------------------------
 [BEEDRILL,1]
 FormName = Mega Beedrill
@@ -67,8 +69,9 @@ Height = 1.4
 Weight = 40.5
 Pokedex = Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.
 Generation = 6
-BattlerPlayerY = 13
-BattlerEnemyY = 15
+BattlerPlayerY = 38
+BattlerEnemyX = -1
+BattlerEnemyY = 8
 #-------------------------------
 [PIDGEOT,1]
 FormName = Mega Pidgeot
@@ -81,8 +84,10 @@ Height = 2.2
 Weight = 50.5
 Pokedex = With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.
 Generation = 6
-BattlerPlayerY = 1
-BattlerEnemyY = 12
+BattlerPlayerY = 30
+BattlerEnemyX = 0
+BattlerEnemyY = 4
+BattlerShadowSize = 3
 #-------------------------------
 [RATTATA,1]
 FormName = Alolan
@@ -97,7 +102,8 @@ Color = Black
 Pokedex = With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.
 Generation = 7
 WildItemUncommon = PECHABERRY
-BattlerPlayerY = 26
+BattlerPlayerY = 54
+BattlerEnemyX = 4
 BattlerEnemyY = 26
 Evolutions = RATICATE,LevelNight,20
 #-------------------------------
@@ -114,110 +120,106 @@ Color = Black
 Pokedex = It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputes over food happen often.
 Generation = 7
 WildItemUncommon = PECHABERRY
-BattlerEnemyY = 25
+BattlerEnemyX = 4
 #-------------------------------
 [PIKACHU,3]
 FormName = Cosplay Pikachu
 Compatibility = Undiscovered
 Pokedex = When it comes across something new, it blasts it with electricity. If you find a charred berry, it's evidence that a Pikachu mistook the power of its charge.
 Generation = 6
-BattlerPlayerY = 26
-BattlerEnemyY = 29
 #-------------------------------
 [PIKACHU,4]
 FormName = Cosplay Pikachu - Belle
 Compatibility = Undiscovered
 Pokedex = When it comes across something new, it blasts it with electricity. If you find a charred berry, it's evidence that a Pikachu mistook the power of its charge.
 Generation = 6
-BattlerPlayerY = 21
-BattlerEnemyY = 29
 #-------------------------------
 [PIKACHU,5]
 FormName = Cosplay Pikachu - Libre
 Compatibility = Undiscovered
 Pokedex = When it comes across something new, it blasts it with electricity. If you find a charred berry, it's evidence that a Pikachu mistook the power of its charge.
 Generation = 6
-BattlerPlayerY = 26
-BattlerEnemyY = 29
 #-------------------------------
 [PIKACHU,6]
 FormName = Cosplay Pikachu - Ph.D.
 Compatibility = Undiscovered
 Pokedex = When it comes across something new, it blasts it with electricity. If you find a charred berry, it's evidence that a Pikachu mistook the power of its charge.
 Generation = 6
-BattlerPlayerY = 22
-BattlerEnemyY = 29
 #-------------------------------
 [PIKACHU,7]
 FormName = Cosplay Pikachu - Pop Star
 Compatibility = Undiscovered
 Pokedex = When it comes across something new, it blasts it with electricity. If you find a charred berry, it's evidence that a Pikachu mistook the power of its charge.
 Generation = 6
-BattlerPlayerY = 26
-BattlerEnemyY = 29
 #-------------------------------
 [PIKACHU,8]
 FormName = Cosplay Pikachu - Rock Star
 Compatibility = Undiscovered
 Pokedex = When it comes across something new, it blasts it with electricity. If you find a charred berry, it's evidence that a Pikachu mistook the power of its charge.
 Generation = 6
-BattlerPlayerY = 26
-BattlerEnemyY = 29
 #-------------------------------
 [PIKACHU,9]
 FormName = Original Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions.
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [PIKACHU,10]
 FormName = Hoenn Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Hoenn region.
 Generation = 3
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [PIKACHU,11]
 FormName = Sinnoh Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Sinnoh region.
 Generation = 4
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [PIKACHU,12]
 FormName = Unova Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Unova region.
 Generation = 5
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [PIKACHU,13]
 FormName = Kalos Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Kalos region.
 Generation = 6
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [PIKACHU,14]
 FormName = Alola Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Alola region.
 Generation = 7
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [PIKACHU,15]
 FormName = Partner Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu wears its partner's cap, which is brimming with memories of when they first met.
 Generation = 7
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [PIKACHU,16]
 FormName = World Cap Pikachu
 Compatibility = Undiscovered
 Pokedex = This Pikachu is wearing its Trainer's cap. The cap is a precious symbol that travels across different regions with Pikachu.
 Generation = 8
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 27
 #-------------------------------
 [RAICHU,1]
 FormName = Alolan
@@ -233,8 +235,9 @@ Weight = 21.0
 Color = Brown
 Pokedex = It's believed that the weather, climate, and food of the Alola region all play a part in causing Pikachu to evolve into this form of Raichu.
 Generation = 7
-BattlerPlayerY = 16
-BattlerEnemyY = 18
+BattlerPlayerX = 0
+BattlerEnemyX = 0
+BattlerEnemyY = 12
 #-------------------------------
 [SANDSHREW,1]
 FormName = Alolan
@@ -251,7 +254,8 @@ Weight = 40.0
 Color = White
 Pokedex = It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pokémon hunkers down in the snow to avoid getting blown away.
 Generation = 7
-BattlerPlayerY = 27
+BattlerPlayerX = 0
+BattlerPlayerY = 50
 BattlerEnemyY = 30
 Evolutions = SANDSLASH,Item,ICESTONE
 #-------------------------------
@@ -269,7 +273,6 @@ Weight = 55.0
 Color = Blue
 Pokedex = It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.
 Generation = 7
-BattlerPlayerY = 23
 BattlerEnemyY = 24
 #-------------------------------
 [VULPIX,1]
@@ -284,7 +287,7 @@ Color = White
 Pokedex = After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.
 Generation = 7
 WildItemUncommon = SNOWBALL
-BattlerPlayerY = 23
+BattlerPlayerY = 71
 BattlerEnemyY = 28
 Evolutions = NINETALES,Item,ICESTONE
 #-------------------------------
@@ -302,8 +305,8 @@ Color = Blue
 Pokedex = A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.
 Generation = 7
 WildItemUncommon = SNOWBALL
-BattlerPlayerY = 18
-BattlerEnemyY = 20
+BattlerEnemyX = 2
+BattlerEnemyY = 22
 #-------------------------------
 [DIGLETT,1]
 FormName = Alolan
@@ -317,7 +320,8 @@ EggMoves = ANCIENTPOWER,BEATUP,ENDURE,FEINTATTACK,FINALGAMBIT,HEADBUTT,MEMENTO,M
 Weight = 1.0
 Pokedex = Its three hairs change shape depending on Diglett's mood. They're a useful communication tool among these Pokémon.
 Generation = 7
-BattlerPlayerY = 33
+BattlerPlayerX = 2
+BattlerEnemyX = 1
 BattlerEnemyY = 37
 #-------------------------------
 [DUGTRIO,1]
@@ -332,8 +336,8 @@ TutorMoves = AERIALACE,ATTRACT,BULLDOZE,CONFIDE,DOUBLETEAM,EARTHPOWER,EARTHQUAKE
 Weight = 66.6
 Pokedex = Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.
 Generation = 7
-BattlerPlayerY = 25
-BattlerEnemyY = 29
+BattlerEnemyX = 3
+BattlerEnemyY = 32
 #-------------------------------
 [MEOWTH,1]
 FormName = Alolan
@@ -346,7 +350,6 @@ EggMoves = AMNESIA,ASSIST,CHARM,COVET,FLAIL,FLATTER,FOULPLAY,HYPNOSIS,PARTINGSHO
 Color = Blue
 Pokedex = It's impulsive, selfish, and fickle. It's very popular with some Trainers who like giving it the attention it needs.
 Generation = 7
-BattlerEnemyY = 27
 Evolutions = PERSIAN,Happiness,
 #-------------------------------
 [MEOWTH,2]
@@ -362,7 +365,8 @@ Color = Brown
 Shape = BipedalTail
 Pokedex = These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
 Generation = 8
-BattlerEnemyY = 25
+BattlerEnemyX = 0
+BattlerEnemyY = 24
 Evolutions = PERRSERKER,Level,28
 #-------------------------------
 [PERSIAN,1]
@@ -378,7 +382,8 @@ Weight = 33.0
 Color = Blue
 Pokedex = The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.
 Generation = 7
-BattlerPlayerY = 16
+BattlerPlayerY = 54
+BattlerEnemyX = 0
 BattlerEnemyY = 19
 #-------------------------------
 [ALAKAZAM,1]
@@ -391,8 +396,11 @@ HiddenAbility = TRACE
 Height = 1.2
 Pokedex = Having traded away its muscles, Alakazam's true power has been unleashed. With its psychic powers, it can foresee all things.
 Generation = 6
-BattlerPlayerY = 4
-BattlerEnemyY = 8
+BattlerPlayerX = 3
+BattlerPlayerY = 32
+BattlerEnemyX = 4
+BattlerEnemyY = 6
+BattlerShadowSize = 3
 #-------------------------------
 [GEODUDE,1]
 FormName = Alolan
@@ -408,7 +416,7 @@ Color = Gray
 Pokedex = Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.
 Generation = 7
 WildItemUncommon = CELLBATTERY
-BattlerEnemyY = 35
+BattlerEnemyY = 20
 #-------------------------------
 [GRAVELER,1]
 FormName = Alolan
@@ -423,7 +431,9 @@ Color = Gray
 Pokedex = They eat rocks and often get into a scrap over them. The shock of Graveler smashing together causes a flash of light and a booming noise.
 Generation = 7
 WildItemUncommon = CELLBATTERY
-BattlerPlayerY = 24
+BattlerPlayerX = 0
+BattlerPlayerY = 52
+BattlerEnemyX = -1
 BattlerEnemyY = 28
 #-------------------------------
 [GOLEM,1]
@@ -440,7 +450,7 @@ Color = Gray
 Pokedex = It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.
 Generation = 7
 WildItemCommon = CELLBATTERY
-BattlerPlayerY = 16
+BattlerEnemyX = -1
 BattlerEnemyY = 17
 #-------------------------------
 [PONYTA,1]
@@ -456,7 +466,7 @@ Color = White
 Kind = Unique Horn
 Pokedex = This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
 Generation = 8
-BattlerPlayerY = 21
+BattlerEnemyX = 2
 #-------------------------------
 [RAPIDASH,1]
 FormName = Galarian
@@ -471,8 +481,6 @@ Color = White
 Kind = Unique Horn
 Pokedex = Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
 Generation = 8
-BattlerPlayerY = 12
-BattlerEnemyY = 13
 #-------------------------------
 [SLOWPOKE,1]
 FormName = Galarian
@@ -482,7 +490,8 @@ Moves = 1,TACKLE,1,CURSE,3,GROWL,6,ACID,9,YAWN,12,CONFUSION,15,DISABLE,18,WATERP
 TutorMoves = AMNESIA,ATTRACT,BLIZZARD,BODYSLAM,BRINE,BULLDOZE,CALMMIND,DIG,DIVE,EARTHQUAKE,ENDURE,EXPANDINGFORCE,FACADE,FIREBLAST,FLAMETHROWER,FOULPLAY,FUTURESIGHT,GRASSKNOT,HAIL,HIDDENPOWER,HYDROPUMP,ICEBEAM,ICYWIND,IMPRISON,IRONTAIL,LIGHTSCREEN,LIQUIDATION,MUDSHOT,PAYDAY,PROTECT,PSYCHIC,PSYCHICTERRAIN,PSYSHOCK,RAINDANCE,REST,ROUND,SAFEGUARD,SCALD,SHADOWBALL,SKILLSWAP,SLEEPTALK,SNORE,STOREDPOWER,SUBSTITUTE,SUNNYDAY,SURF,SWIFT,THUNDERWAVE,TRIATTACK,TRICK,TRICKROOM,WEATHERBALL,WHIRLPOOL,WONDERROOM,ZENHEADBUTT
 Pokedex = Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.
 Generation = 8
-BattlerPlayerY = 34
+BattlerPlayerY = 62
+BattlerEnemyX = 2
 BattlerEnemyY = 38
 Evolutions = SLOWBRO,Item,GALARICACUFF,SLOWKING,Item,GALARICAWREATH
 #-------------------------------
@@ -497,7 +506,6 @@ TutorMoves = AMNESIA,ATTRACT,AVALANCHE,BLIZZARD,BODYSLAM,BRICKBREAK,BRINE,BRUTAL
 Weight = 70.5
 Pokedex = If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.
 Generation = 8
-BattlerPlayerY = 20
 BattlerEnemyY = 22
 #-------------------------------
 [SLOWBRO,2]
@@ -512,8 +520,8 @@ Weight = 120.0
 Shape = HeadArms
 Pokedex = Having been swallowed whole by Shellder, Slowbro now has an iron defense. It's pretty comfortable in there, too.
 Generation = 6
-BattlerPlayerY = 8
-BattlerEnemyY = 15
+BattlerEnemyX = -2
+BattlerEnemyY = 14
 #-------------------------------
 [FARFETCHD,1]
 FormName = Galarian
@@ -528,8 +536,9 @@ Weight = 42.0
 Pokedex = The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.
 Generation = 8
 WildItemCommon = LEEK
-BattlerPlayerY = 24
-BattlerEnemyY = 28
+BattlerPlayerX = -2
+BattlerPlayerY = 58
+BattlerEnemyX = 6
 Evolutions = SIRFETCHD,CriticalHits,3
 #-------------------------------
 [GRIMER,1]
@@ -546,15 +555,8 @@ Weight = 42.0
 Color = Green
 Pokedex = A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.
 Generation = 7
-BattlerPlayerY = 27
+BattlerPlayerY = 48
 BattlerEnemyY = 31
-#-------------------------------
-[GRIMER,2]
-FormName = Postwar
-Type1 = POISON
-Type2 = RADIOACTIVE
-BattlerPlayerY = 0
-BattlerEnemyY = 46
 #-------------------------------
 [MUK,1]
 FormName = Alolan
@@ -569,15 +571,9 @@ Weight = 52.0
 Color = Green
 Pokedex = The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration.
 Generation = 7
-BattlerPlayerY = 20
-BattlerEnemyY = 23
-#-------------------------------
-[MUK,2]
-FormName = Postwar
-Type1 = POISON
-Type2 = RADIOACTIVE
-BattlerPlayerY = 2
-BattlerEnemyY = 18
+BattlerPlayerX = 0
+BattlerEnemyX = -2
+BattlerEnemyY = 27
 #-------------------------------
 [GENGAR,1]
 FormName = Mega Gengar
@@ -589,8 +585,11 @@ HiddenAbility = SHADOWTAG
 Height = 1.4
 Pokedex = The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.
 Generation = 6
-BattlerPlayerY = 19
-BattlerEnemyY = 21
+BattlerPlayerX = 7
+BattlerPlayerY = 54
+BattlerEnemyX = -4
+BattlerEnemyY = 23
+BattlerShadowSize = 3
 #-------------------------------
 [EXEGGUTOR,1]
 FormName = Alolan
@@ -604,7 +603,8 @@ Height = 10.9
 Weight = 415.6
 Pokedex = This Pokémon's psychic powers aren't as strong as they once were. The head on this Exeggutor's tail scans surrounding areas with weak telepathy.
 Generation = 7
-BattlerPlayerY = 1
+BattlerPlayerY = 36
+BattlerEnemyX = -7
 BattlerEnemyY = 4
 #-------------------------------
 [CUBONE,1]
@@ -623,27 +623,10 @@ Weight = 34.0
 Color = Purple
 Pokedex = The cursed flames that light up the bone carried by this Pokémon are said to cause both mental and physical pain that will never fade.
 Generation = 7
-BattlerPlayerY = 12
-BattlerEnemyY = 17
-#-------------------------------
-[HITMONLEE,1]
-FormName = Westornian
-Type1 = FIGHTING
-Type2 = PSYCHIC
-Generation = 10
-#-------------------------------
-[HITMONCHAN,1]
-FormName = Westornian
-Type1 = FIGHTING
-Type2 = DARK
-Generation = 10
-#-------------------------------
-[KOFFING,1]
-FormName = Postwar
-Type1 = POISON
-Type2 = RADIOACTIVE
-Generation = 10
-BattlerPlayerY = 2
+BattlerPlayerX = -6
+BattlerPlayerY = 32
+BattlerEnemyX = 3
+BattlerEnemyY = 16
 #-------------------------------
 [WEEZING,1]
 FormName = Galarian
@@ -658,16 +641,9 @@ Color = Gray
 Pokedex = Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.
 Generation = 8
 WildItemUncommon = MISTYSEED
-BattlerPlayerY = 2
-BattlerEnemyY = 6
-#-------------------------------
-[WEEZING,2]
-FormName = Postwar
-Type1 = POISON
-Type2 = RADIOACTIVE
-Generation = 10
-BattlerPlayerY = 2
-BattlerEnemyY = 14
+BattlerPlayerY = 34
+BattlerEnemyX = 7
+BattlerEnemyY = -3
 #-------------------------------
 [KANGASKHAN,1]
 FormName = Mega Kangaskhan
@@ -679,8 +655,10 @@ HiddenAbility = PARENTALBOND
 Weight = 100.0
 Pokedex = The explosive energy the child is bathed in causes temporary growth. The mother is beside herself with worry about it.
 Generation = 6
-BattlerPlayerY = 16
-BattlerEnemyY = 21
+BattlerPlayerX = 2
+BattlerPlayerY = 50
+BattlerEnemyX = 3
+BattlerEnemyY = 22
 #-------------------------------
 [MRMIME,1]
 FormName = Galarian
@@ -715,8 +693,9 @@ Weight = 59.0
 Shape = MultiWinged
 Pokedex = It zips around at blistering speeds, looking for an opening to skewer its opponent on its giant pincers.
 Generation = 6
-BattlerPlayerY = 12
-BattlerEnemyY = 19
+BattlerPlayerY = 44
+BattlerEnemyX = 4
+BattlerEnemyY = 8
 #-------------------------------
 [GYARADOS,1]
 FormName = Mega Gyarados
@@ -730,38 +709,9 @@ HiddenAbility = MOLDBREAKER
 Weight = 305.0
 Pokedex = It zooms out of the water at Mach speeds. Even large ships caught in its path are split cleanly in two!
 Generation = 6
-BattlerPlayerY = 4
+BattlerPlayerY = 32
+BattlerEnemyX = 0
 BattlerEnemyY = 8
-#-------------------------------
-[VAPOREON,1]
-FormName = Mega Vaporeon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
-#-------------------------------
-[FLAREON,1]
-FormName = Mega Flareon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
-#-------------------------------
-[JOLTEON,1]
-FormName = Mega Jolteon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
 #-------------------------------
 [AERODACTYL,1]
 FormName = Mega Aerodactyl
@@ -774,7 +724,7 @@ Height = 2.1
 Weight = 79.0
 Pokedex = When it Mega Evolves, it becomes more vicious than ever before. Some say that's because its excess of power is causing it pain.
 Generation = 6
-BattlerEnemyY = 22
+BattlerEnemyX = 0
 #-------------------------------
 [ARTICUNO,1]
 FormName = Galarian
@@ -791,8 +741,10 @@ Color = Purple
 Kind = Cruel
 Pokedex = Its feather-like blades are composed of psychic energy and can shear through thick iron sheets as if they were paper.
 Generation = 8
-BattlerPlayerY = 16
-BattlerEnemyY = 20
+BattlerPlayerY = 48
+BattlerEnemyX = 4
+BattlerEnemyY = 12
+BattlerShadowX = 7
 #-------------------------------
 [ZAPDOS,1]
 FormName = Galarian
@@ -808,7 +760,9 @@ Weight = 58.2
 Kind = Strong Legs
 Pokedex = When its feathers rub together, they produce a crackling sound like the zapping of electricity. That's why this Pokémon is called Zapdos.
 Generation = 8
-BattlerEnemyY = 18
+BattlerPlayerY = 46
+BattlerEnemyX = 6
+BattlerEnemyY = 20
 #-------------------------------
 [MOLTRES,1]
 FormName = Galarian
@@ -839,7 +793,7 @@ Height = 2.3
 Weight = 127.0
 Pokedex = Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
 Generation = 6
-BattlerPlayerY = 10
+BattlerPlayerY = 52
 BattlerEnemyY = 18
 #-------------------------------
 [MEWTWO,2]
@@ -853,76 +807,14 @@ Height = 1.5
 Weight = 33.0
 Pokedex = Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.
 Generation = 6
-#-------------------------------
-[CHIKORITA,1]
-FormName = Westornian
-Type1 = GRASS
-Type2 = PSYCHIC
-Generation = 10
-#-------------------------------
-[BAYLEEF,1]
-FormName = Westornian
-Type1 = GRASS
-Type2 = PSYCHIC
-Generation = 10
-#-------------------------------
-[MEGANIUM,1]
-FormName = Westornian
-Type1 = GRASS
-Type2 = PSYCHIC
-Generation = 10
-#-------------------------------
-[CYNDAQUIL,1]
-FormName = Westornian
-Type1 = FIRE
-Type2 = GROUND
-Generation = 10
-#-------------------------------
-[QUILAVA,1]
-FormName = Westornian
-Type1 = FIRE
-Type2 = GROUND
-Generation = 10
-#-------------------------------
-[TYPHLOSION,1]
-FormName = Westornian
-Type1 = FIRE
-Type2 = GROUND
-Generation = 10
-#-------------------------------
-[TOTODILE,1]
-FormName = Westornian
-Type1 = WATER
-Type2 = RADIOACTIVE
-Generation = 10
-#-------------------------------
-[CROCONAW,1]
-FormName = Westornian
-Type1 = WATER
-Type2 = RADIOACTIVE
-Generation = 10
-#-------------------------------
-[FERALIGATR,1]
-FormName = Westornian
-Type1 = WATER
-Type2 = RADIOACTIVE
-Generation = 10
-#-------------------------------
-[HOOTHOOT,1]
-FormName = Westornian
-Type1 = ICE
-Type2 = FLYING
-Generation = 10
-#-------------------------------
-[NOCTOWL,1]
-FormName = Westornian
-Type1 = ICE
-Type2 = FLYING
-Generation = 10
+BattlerEnemyY = 10
 #-------------------------------
 [PICHU,2]
 FormName = Spiky-Eared
 TutorMoves = ATTRACT,CHARGEBEAM,CONFIDE,COVET,DOUBLETEAM,ECHOEDVOICE,ELECTROWEB,ENDURE,FACADE,FLING,FRUSTRATION,GRASSKNOT,HELPINGHAND,HIDDENPOWER,IRONTAIL,LIGHTSCREEN,MAGNETRISE,PROTECT,RAINDANCE,REST,RETURN,ROUND,SHOCKWAVE,SIGNALBEAM,SLEEPTALK,SNORE,SUBSTITUTE,SWAGGER,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TOXIC,UPROAR,VOLTSWITCH,WILDCHARGE
+BattlerPlayerY = 8
+BattlerEnemyX = 2
+BattlerEnemyY = 24
 FrontSpriteScale = 1
 BackSpriteScale = 1
 Evolutions = PIKACHU,None,
@@ -938,27 +830,10 @@ Abilities = MOLDBREAKER
 HiddenAbility = MOLDBREAKER
 Pokedex = Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.
 Generation = 6
-BattlerPlayerY = 11
-BattlerEnemyY = 15
-#-------------------------------
-[ESPEON,1]
-FormName = Mega Espeon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
-#-------------------------------
-[UMBREON,1]
-FormName = Mega Umbreon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-Weight = 56.4
-Generation = 6
+BattlerPlayerX = 0
+BattlerPlayerY = 42
+BattlerEnemyX = 10
+BattlerEnemyY = 16
 #-------------------------------
 [SLOWKING,1]
 FormName = Galarian
@@ -975,149 +850,86 @@ Generation = 8
 #-------------------------------
 [UNOWN,1]
 FormName = B
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [UNOWN,2]
 FormName = C
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [UNOWN,3]
 FormName = D
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [UNOWN,4]
 FormName = E
-BattlerPlayerY = 33
-BattlerEnemyY = 37
 #-------------------------------
 [UNOWN,5]
 FormName = F
-BattlerPlayerY = 33
-BattlerEnemyY = 37
 #-------------------------------
 [UNOWN,6]
 FormName = G
-BattlerPlayerY = 30
-BattlerEnemyY = 34
 #-------------------------------
 [UNOWN,7]
 FormName = H
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [UNOWN,8]
 FormName = I
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [UNOWN,9]
 FormName = J
-BattlerPlayerY = 33
-BattlerEnemyY = 37
 #-------------------------------
 [UNOWN,10]
 FormName = K
-BattlerPlayerY = 33
-BattlerEnemyY = 37
 #-------------------------------
 [UNOWN,11]
 FormName = L
-BattlerPlayerY = 35
-BattlerEnemyY = 39
 #-------------------------------
 [UNOWN,12]
 FormName = M
-BattlerPlayerY = 35
-BattlerEnemyY = 39
 #-------------------------------
 [UNOWN,13]
 FormName = N
-BattlerPlayerY = 36
-BattlerEnemyY = 40
 #-------------------------------
 [UNOWN,14]
 FormName = O
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [UNOWN,15]
 FormName = P
-BattlerPlayerY = 38
-BattlerEnemyY = 39
 #-------------------------------
 [UNOWN,16]
 FormName = Q
-BattlerPlayerY = 37
-BattlerEnemyY = 41
 #-------------------------------
 [UNOWN,17]
 FormName = R
-BattlerPlayerY = 35
-BattlerEnemyY = 39
 #-------------------------------
 [UNOWN,18]
 FormName = S
-BattlerPlayerY = 30
-BattlerEnemyY = 32
 #-------------------------------
 [UNOWN,19]
 FormName = T
-BattlerPlayerY = 36
-BattlerEnemyY = 38
 #-------------------------------
 [UNOWN,20]
 FormName = U
-BattlerPlayerY = 36
-BattlerEnemyY = 38
 #-------------------------------
 [UNOWN,21]
 FormName = V
-BattlerPlayerY = 35
-BattlerEnemyY = 38
 #-------------------------------
 [UNOWN,22]
 FormName = W
-BattlerPlayerY = 36
-BattlerEnemyY = 39
 #-------------------------------
 [UNOWN,23]
 FormName = X
-BattlerPlayerY = 37
-BattlerEnemyY = 41
 #-------------------------------
 [UNOWN,24]
 FormName = Y
-BattlerPlayerY = 33
-BattlerEnemyY = 37
 #-------------------------------
 [UNOWN,25]
 FormName = Z
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [UNOWN,26]
 FormName = ?
 Generation = 3
-BattlerPlayerY = 32
 #-------------------------------
 [UNOWN,27]
 FormName = !
 Generation = 3
-#-------------------------------
-[DUNSPARCE,1]
-FormName = Mega Dunsparce
-MegaStone = GALLADITE
-Type1 = DRAGON
-Type2 = FLYING
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
 #-------------------------------
 [STEELIX,1]
 FormName = Mega Steelix
@@ -1129,20 +941,8 @@ HiddenAbility = SANDFORCE
 Height = 10.5
 Weight = 740.0
 Generation = 6
-BattlerPlayerY = 6
-BattlerEnemyY = 7
-#-------------------------------
-[GRANBULL,1]
-FormName = Mega Granbull
-MegaStone = GALLADITE
-Type1 = FAIRY
-Type2 = GROUND
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
+BattlerEnemyX = -8
+BattlerEnemyY = 6
 #-------------------------------
 [SCIZOR,1]
 FormName = Mega Scizor
@@ -1155,8 +955,6 @@ Height = 2.0
 Weight = 125.0
 Pokedex = It's better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear.
 Generation = 6
-BattlerPlayerY = 5
-BattlerEnemyY = 12
 #-------------------------------
 [HERACROSS,1]
 FormName = Mega Heracross
@@ -1169,7 +967,9 @@ Height = 1.7
 Weight = 62.5
 Pokedex = A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles.
 Generation = 6
-BattlerPlayerY = 11
+BattlerPlayerX = 6
+BattlerPlayerY = 40
+BattlerEnemyX = -4
 BattlerEnemyY = 15
 #-------------------------------
 [CORSOLA,1]
@@ -1185,7 +985,9 @@ Weight = 0.5
 Color = White
 Pokedex = Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others' life-force through its branches.
 Generation = 8
-BattlerPlayerY = 28
+BattlerPlayerX = 0
+BattlerPlayerY = 52
+BattlerEnemyX = 4
 BattlerEnemyY = 33
 Evolutions = CURSOLA,Level,38
 #-------------------------------
@@ -1200,20 +1002,10 @@ Height = 1.9
 Weight = 49.5
 Pokedex = Its red claws and the tips of its tail are melting from high internal temperatures that are painful to Houndoom itself.
 Generation = 6
-BattlerPlayerY = 8
+BattlerPlayerY = 40
+BattlerEnemyX = 9
 BattlerEnemyY = 11
-#-------------------------------
-[TYROGUE,1]
-FormName = Westornian
-Type1 = FIGHTING
-Type2 = GHOST
-Generation = 10
-#-------------------------------
-[HITMONTOP,1]
-FormName = Westornian
-Type1 = FIGHTING
-Type2 = GHOST
-Generation = 10
+BattlerShadowSize = 3
 #-------------------------------
 [TYRANITAR,1]
 FormName = Mega Tyranitar
@@ -1225,8 +1017,10 @@ Height = 2.5
 Weight = 255.0
 Pokedex = Due to the colossal power poured into it, this Pokémon's back split right open. Its destructive instincts are the only thing keeping it moving.
 Generation = 6
-BattlerPlayerY = 12
+BattlerPlayerX = 0
+BattlerEnemyX = 11
 BattlerEnemyY = 10
+BattlerShadowSize = 3
 #-------------------------------
 [SCEPTILE,1]
 FormName = Mega Sceptile
@@ -1240,8 +1034,10 @@ HiddenAbility = LIGHTNINGROD
 Height = 1.9
 Weight = 55.2
 Generation = 6
-BattlerPlayerY = 3
-BattlerEnemyY = 13
+BattlerPlayerY = 42
+BattlerEnemyX = -10
+BattlerEnemyY = 14
+BattlerShadowSize = 3
 #-------------------------------
 [BLAZIKEN,1]
 FormName = Mega Blaziken
@@ -1250,8 +1046,10 @@ BaseStats = 80,160,80,100,130,80
 BaseEXP = 315
 Abilities = SPEEDBOOST
 Generation = 6
-BattlerPlayerY = 2
+BattlerPlayerX = 6
+BattlerEnemyX = 17
 BattlerEnemyY = 4
+BattlerShadowSize = 3
 #-------------------------------
 [SWAMPERT,1]
 FormName = Mega Swampert
@@ -1263,8 +1061,7 @@ HiddenAbility = SWIFTSWIM
 Height = 1.9
 Weight = 102.0
 Generation = 6
-BattlerPlayerY = 14
-BattlerEnemyY = 19
+BattlerEnemyY = 17
 #-------------------------------
 [ZIGZAGOON,1]
 FormName = Galarian
@@ -1276,7 +1073,8 @@ EggMoves = KNOCKOFF,PARTINGSHOT,QUICKGUARD
 Color = White
 Pokedex = Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.
 Generation = 8
-BattlerPlayerY = 26
+BattlerPlayerY = 50
+BattlerEnemyX = 4
 #-------------------------------
 [LINOONE,1]
 FormName = Galarian
@@ -1286,7 +1084,8 @@ Moves = 0,NIGHTSLASH,1,NIGHTSLASH,1,SWITCHEROO,1,PINMISSILE,1,BABYDOLLEYES,1,TAC
 TutorMoves = ASSURANCE,ATTRACT,BLIZZARD,BODYPRESS,BODYSLAM,DIG,ENDURE,FACADE,FAKETEARS,FLING,GIGAIMPACT,GRASSKNOT,GUNKSHOT,HELPINGHAND,HIDDENPOWER,HYPERBEAM,HYPERVOICE,ICEBEAM,ICYWIND,IRONTAIL,LASHOUT,MUDSHOT,PAYBACK,PINMISSILE,PROTECT,RAINDANCE,REST,RETALIATE,ROUND,SCARYFACE,SCREECH,SEEDBOMB,SHADOWBALL,SHADOWCLAW,SLEEPTALK,SNARL,SNORE,STOMPINGTANTRUM,SUBSTITUTE,SUNNYDAY,SURF,SWIFT,TAUNT,THIEF,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERWAVE,TRICK,WHIRLPOOL,WORKUP
 Pokedex = This very aggressive Pokémon will recklessly challenge opponents stronger than itself.
 Generation = 8
-BattlerPlayerY = 30
+BattlerPlayerY = 59
+BattlerEnemyX = 6
 Evolutions = OBSTAGOON,LevelNight,35
 #-------------------------------
 [GARDEVOIR,1]
@@ -1297,7 +1096,9 @@ BaseEXP = 309
 Abilities = PIXILATE
 HiddenAbility = PIXILATE
 Generation = 6
-BattlerPlayerY = 9
+BattlerPlayerX = 1
+BattlerPlayerY = 42
+BattlerEnemyX = -1
 BattlerEnemyY = 15
 #-------------------------------
 [SABLEYE,1]
@@ -1310,8 +1111,9 @@ HiddenAbility = MAGICBOUNCE
 Weight = 161.0
 Pokedex = Supporting a giant heavy jewel, it can't change direction very nimbly and is vulnerable to attack from behind.
 Generation = 6
-BattlerPlayerY = 14
+BattlerPlayerY = 48
 BattlerEnemyY = 20
+BattlerShadowSize = 2
 #-------------------------------
 [MAWILE,1]
 FormName = Mega Mawile
@@ -1324,8 +1126,10 @@ Height = 1.0
 Weight = 23.5
 Pokedex = Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.
 Generation = 6
-BattlerPlayerY = 13
-BattlerEnemyY = 18
+BattlerPlayerY = 38
+BattlerEnemyX = 0
+BattlerEnemyY = 17
+BattlerShadowSize = 3
 #-------------------------------
 [AGGRON,1]
 FormName = Mega Aggron
@@ -1337,14 +1141,9 @@ HiddenAbility = FILTER
 Height = 2.2
 Weight = 395.0
 Generation = 6
-BattlerPlayerY = 4
-BattlerEnemyY = 12
-#-------------------------------
-[MEDITITE,1]
-FormName = Westornian
-Type1 = FIGHTING
-Type2 = FAIRY
-Generation = 10
+BattlerPlayerX = 9
+BattlerEnemyX = -4
+BattlerEnemyY = 13
 #-------------------------------
 [MEDICHAM,1]
 FormName = Mega Medicham
@@ -1353,22 +1152,8 @@ BaseStats = 60,100,85,100,80,85
 BaseEXP = 179
 HiddenAbility = PUREPOWER
 Generation = 6
-BattlerPlayerY = 11
-BattlerEnemyY = 18
-#-------------------------------
-[MEDICHAM,2]
-FormName = Westornian
-Type1 = FIGHTING
-Type2 = FAIRY
-Generation = 10
-#-------------------------------
-[MEDICHAM,3]
-FormName = Mega Westornian Medicham
-MegaStone = MEDICHAMITE
-BaseStats = 60,100,85,100,80,85
-BaseEXP = 179
-HiddenAbility = PUREPOWER
-Generation = 6
+BattlerPlayerY = 42
+BattlerEnemyX = 3
 #-------------------------------
 [MANECTRIC,1]
 FormName = Mega Manectric
@@ -1381,7 +1166,8 @@ Height = 1.8
 Weight = 44.0
 Pokedex = Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt.
 Generation = 6
-BattlerPlayerY = 7
+BattlerPlayerY = 36
+BattlerEnemyX = -3
 BattlerEnemyY = 15
 #-------------------------------
 [SHARPEDO,1]
@@ -1395,8 +1181,8 @@ Height = 2.5
 Weight = 130.3
 Pokedex = The yellow patterns it bears are old scars. The energy from Mega Evolution runs through them, causing it sharp pain and suffering.
 Generation = 6
-BattlerPlayerY = 10
-BattlerEnemyY = 16
+BattlerPlayerY = 50
+BattlerEnemyY = 10
 #-------------------------------
 [CAMERUPT,1]
 FormName = Mega Camerupt
@@ -1408,8 +1194,9 @@ HiddenAbility = SHEERFORCE
 Height = 2.5
 Weight = 320.5
 Generation = 6
-BattlerPlayerY = 14
-BattlerEnemyY = 18
+BattlerPlayerY = 44
+BattlerEnemyX = 0
+BattlerEnemyY = 20
 #-------------------------------
 [ALTARIA,1]
 FormName = Mega Altaria
@@ -1422,56 +1209,28 @@ Abilities = PIXILATE
 HiddenAbility = PIXILATE
 Height = 1.5
 Generation = 6
-BattlerPlayerY = 6
+BattlerPlayerX = 0
+BattlerPlayerY = 54
 BattlerEnemyY = 6
-#-------------------------------
-[ZANGOOSE,1]
-FormName = Mega Dunsparce
-MegaStone = GALLADITE
-Type1 = NORMAL
-Type2 = FIGHTING
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
-#-------------------------------
-[SEVIPER,1]
-FormName = Mega Dunsparce
-MegaStone = GALLADITE
-Type1 = POISON
-Type2 = DARK
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
+BattlerShadowSize = 3
 #-------------------------------
 [CASTFORM,1]
 FormName = Sunny Form
 Type1 = FIRE
 Color = Red
 Pokedex = This is the form Castform takes on the brightest of days. Its skin is unexpectedly hot to the touch, so approach with care.
-BattlerPlayerY = 22
-BattlerEnemyY = 29
 #-------------------------------
 [CASTFORM,2]
 FormName = Rainy Form
 Type1 = WATER
 Color = Blue
 Pokedex = This is the form Castform takes when soaked with rain. When its body is compressed, water will seep out as if from a sponge.
-BattlerPlayerY = 26
-BattlerEnemyY = 29
 #-------------------------------
 [CASTFORM,3]
 FormName = Snowy Form
 Type1 = ICE
 Color = White
 Pokedex = This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near -5 degrees Celsius.
-BattlerPlayerY = 24
-BattlerEnemyY = 28
 #-------------------------------
 [BANETTE,1]
 FormName = Mega Banette
@@ -1484,8 +1243,9 @@ Height = 1.2
 Weight = 13.0
 Pokedex = Extraordinary energy amplifies its cursing power to such an extent that it can't help but curse its own Trainer.
 Generation = 6
-BattlerPlayerY = 17
-BattlerEnemyY = 20
+BattlerPlayerY = 42
+BattlerEnemyY = 12
+BattlerShadowSize = 2
 #-------------------------------
 [ABSOL,1]
 FormName = Mega Absol
@@ -1497,7 +1257,8 @@ HiddenAbility = MAGICBOUNCE
 Weight = 49.0
 Pokedex = When this Pokémon whips the winglike fur on its back as though beating its wings, it sends an intimidating aura flying at its opponents.
 Generation = 6
-BattlerEnemyY = 17
+BattlerEnemyX = -3
+BattlerEnemyY = 18
 #-------------------------------
 [GLALIE,1]
 FormName = Mega Glalie
@@ -1510,8 +1271,7 @@ Height = 2.1
 Weight = 350.2
 Pokedex = It envelops prey in its mouth, freezing them instantly. But its jaw is dislocated, so it's unable to eat them.
 Generation = 6
-BattlerPlayerY = 16
-BattlerEnemyY = 19
+BattlerEnemyY = 6
 #-------------------------------
 [SALAMENCE,1]
 FormName = Mega Salamence
@@ -1524,8 +1284,11 @@ Height = 1.8
 Weight = 112.6
 Pokedex = It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features.
 Generation = 6
-BattlerPlayerY = 2
-BattlerEnemyY = 16
+BattlerPlayerX = 6
+BattlerPlayerY = 44
+BattlerEnemyX = -6
+BattlerEnemyY = 19
+BattlerShadowSize = 3
 #-------------------------------
 [METAGROSS,1]
 FormName = Mega Metagross
@@ -1538,8 +1301,9 @@ Height = 2.5
 Weight = 942.9
 Pokedex = Its intellect surpasses its previous level, resulting in battles so cruel, they'll make you want to cover your eyes.
 Generation = 6
-BattlerPlayerY = 20
-BattlerEnemyY = 14
+BattlerPlayerY = 36
+BattlerEnemyX = 0
+BattlerEnemyY = 6
 #-------------------------------
 [LATIAS,1]
 FormName = Mega Latias
@@ -1550,8 +1314,9 @@ Height = 1.8
 Weight = 52.0
 Color = Purple
 Generation = 6
-BattlerPlayerY = 16
-BattlerEnemyY = 17
+BattlerEnemyX = 2
+BattlerEnemyY = 4
+BattlerShadowSize = 3
 #-------------------------------
 [LATIOS,1]
 FormName = Mega Latios
@@ -1562,8 +1327,7 @@ Height = 2.3
 Weight = 70.0
 Color = Purple
 Generation = 6
-BattlerPlayerY = 16
-BattlerEnemyY = 17
+BattlerShadowSize = 3
 #-------------------------------
 [KYOGRE,1]
 FormName = Primal Kyogre
@@ -1573,8 +1337,7 @@ Abilities = PRIMORDIALSEA
 Height = 9.8
 Weight = 430.0
 Generation = 6
-BattlerPlayerY = 12
-BattlerEnemyY = 22
+BattlerPlayerY = 48
 #-------------------------------
 [GROUDON,1]
 FormName = Primal Groudon
@@ -1586,8 +1349,9 @@ Abilities = DESOLATELAND
 Height = 5.0
 Weight = 999.7
 Generation = 6
-BattlerPlayerY = 10
-BattlerEnemyY = 11
+BattlerPlayerY = 45
+BattlerEnemyX = -1
+BattlerEnemyY = 12
 #-------------------------------
 [RAYQUAZA,1]
 FormName = Mega Rayquaza
@@ -1600,8 +1364,8 @@ HiddenAbility = DELTASTREAM
 Height = 10.8
 Weight = 392.0
 Generation = 6
-BattlerPlayerY = 0
-BattlerEnemyY = 4
+BattlerPlayerY = 34
+BattlerEnemyX = 0
 #-------------------------------
 [DEOXYS,1]
 FormName = Attack Forme
@@ -1609,7 +1373,6 @@ BaseStats = 50,180,20,150,180,20
 EffortPoints = 0,2,0,0,1,0
 Moves = 1,LEER,1,WRAP,7,NIGHTSHADE,13,TELEPORT,19,TAUNT,25,TOXICSPIKES,31,PSYCHIC,37,SUPERPOWER,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,COSMICPOWER,61,ZAPCANNON,67,PSYCHOBOOST,73,HYPERBEAM
 TutorMoves = AERIALACE,ALLYSWITCH,AVALANCHE,BIND,BRICKBREAK,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,CUT,DARKPULSE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,ENDURE,ENERGYBALL,FACADE,FLASH,FLASHCANNON,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HIDDENPOWER,HYPERBEAM,ICEBEAM,LASERFOCUS,LIGHTSCREEN,LOWKICK,LOWSWEEP,MAGICCOAT,NASTYPLOT,POISONJAB,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLEPLAY,ROUND,SAFEGUARD,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,STEALTHROCK,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUNNYDAY,SUPERPOWER,SWAGGER,TAUNT,TELEKINESIS,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERWAVE,TORMENT,TRICK,TRICKROOM,WATERPULSE,WONDERROOM,ZENHEADBUTT
-BattlerPlayerY = 6
 BattlerEnemyY = 10
 #-------------------------------
 [DEOXYS,2]
@@ -1626,14 +1389,11 @@ BaseStats = 50,95,90,180,95,90
 EffortPoints = 0,0,0,3,0,0
 Moves = 1,LEER,1,WRAP,7,NIGHTSHADE,13,DOUBLETEAM,19,KNOCKOFF,25,TOXICSPIKES,31,PSYCHIC,37,SWIFT,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,AGILITY,61,RECOVER,67,PSYCHOBOOST,73,EXTREMESPEED
 TutorMoves = AERIALACE,ALLYSWITCH,AVALANCHE,BIND,BRICKBREAK,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,CUT,DARKPULSE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,ENDURE,ENERGYBALL,FACADE,FIREPUNCH,FLASH,FLASHCANNON,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HIDDENPOWER,HYPERBEAM,ICEBEAM,ICEPUNCH,KNOCKOFF,LASERFOCUS,LIGHTSCREEN,LOWKICK,LOWSWEEP,MAGICCOAT,NASTYPLOT,POISONJAB,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLEPLAY,ROUND,SAFEGUARD,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,STEALTHROCK,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUNNYDAY,SWAGGER,TAUNT,TELEKINESIS,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TORMENT,TRICK,TRICKROOM,WATERPULSE,WONDERROOM,ZENHEADBUTT
-BattlerPlayerY = 9
 BattlerEnemyY = 13
 #-------------------------------
 [BURMY,1]
 FormName = Sandy Cloak
 Color = Brown
-BattlerPlayerY = 28
-BattlerEnemyY = 32
 #-------------------------------
 [BURMY,2]
 FormName = Trash Cloak
@@ -1648,7 +1408,6 @@ EffortPoints = 0,0,2,0,0,0
 Moves = 0,QUIVERDANCE,1,QUIVERDANCE,1,SUCKERPUNCH,1,TACKLE,1,PROTECT,1,BUGBITE,10,PROTECT,15,BUGBITE,20,STRINGSHOT,23,CONFUSION,26,ROCKBLAST,29,HARDEN,32,PSYBEAM,35,INFESTATION,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,FISSURE,50,BUGBUZZ
 TutorMoves = ALLYSWITCH,ATTRACT,BUGBITE,BUGBUZZ,BULLDOZE,CONFIDE,DIG,DOUBLETEAM,DREAMEATER,EARTHPOWER,EARTHQUAKE,ELECTROWEB,ENDEAVOR,ENDURE,FACADE,FLASH,FRUSTRATION,GIGADRAIN,GIGAIMPACT,HIDDENPOWER,HYPERBEAM,INFESTATION,PROTECT,PSYCHIC,PSYCHUP,RAINDANCE,REST,RETURN,ROCKTOMB,ROUND,SAFEGUARD,SANDSTORM,SHADOWBALL,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNORE,SOLARBEAM,STEALTHROCK,STRUGGLEBUG,SUBSTITUTE,SUNNYDAY,SWAGGER,TELEKINESIS,THIEF,UPROAR,VENOSHOCK
 Color = Brown
-BattlerPlayerY = 23
 #-------------------------------
 [WORMADAM,2]
 FormName = Trash Cloak
@@ -1659,32 +1418,25 @@ EffortPoints = 0,0,1,0,0,1
 Moves = 0,QUIVERDANCE,1,QUIVERDANCE,1,METALBURST,1,SUCKERPUNCH,1,TACKLE,1,PROTECT,1,BUGBITE,10,PROTECT,15,BUGBITE,20,STRINGSHOT,23,CONFUSION,26,METALBURST,29,METALSOUND,32,PSYBEAM,35,INFESTATION,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,IRONHEAD,50,BUGBUZZ
 TutorMoves = ALLYSWITCH,ATTRACT,BUGBITE,BUGBUZZ,CONFIDE,DIG,DOUBLETEAM,DREAMEATER,ELECTROWEB,ENDEAVOR,ENDURE,FACADE,FLASH,FLASHCANNON,FRUSTRATION,GIGADRAIN,GIGAIMPACT,GUNKSHOT,GYROBALL,HIDDENPOWER,HYPERBEAM,INFESTATION,IRONDEFENSE,IRONHEAD,MAGNETRISE,PROTECT,PSYCHIC,PSYCHUP,RAINDANCE,REST,RETURN,ROUND,SAFEGUARD,SEEDBOMB,SHADOWBALL,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNORE,SOLARBEAM,STEALTHROCK,STRUGGLEBUG,SUBSTITUTE,SUNNYDAY,SWAGGER,TELEKINESIS,THIEF,UPROAR,VENOSHOCK
 Color = Red
-BattlerPlayerY = 23
 #-------------------------------
 [CHERRIM,1]
 FormName = Sunshine Form
 Color = Pink
 Pokedex = After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.
-BattlerPlayerY = 29
-BattlerEnemyY = 33
+BattlerPlayerY = 52
+BattlerEnemyX = 3
+BattlerEnemyY = 32
 #-------------------------------
 [SHELLOS,1]
 FormName = East Sea
 Color = Blue
 Pokedex = Its appearance changes depending on the environment. One theory suggests that living in cold seas causes Shellos to take on this form.
-BattlerEnemyY = 31
+BattlerEnemyY = 30
 #-------------------------------
 [GASTRODON,1]
 FormName = East Sea
 Color = Blue
 Pokedex = Its search for food sometimes leads it onto land, where it leaves behind a sticky trail of slime as it passes through.
-BattlerPlayerY = 21
-#-------------------------------
-[BUNEARY,1]
-FormName = Westornian
-Type1 = NORMAL
-Type2 = ICE
-Generation = 10
 #-------------------------------
 [LOPUNNY,1]
 FormName = Mega Lopunny
@@ -1699,28 +1451,9 @@ Height = 1.3
 Weight = 28.3
 Pokedex = It swings its ears like whips and strikes its enemies with them. It has an intensely combative disposition.
 Generation = 6
-BattlerPlayerY = 13
-BattlerEnemyY = 18
-#-------------------------------
-[LOPUNNY,2]
-FormName = Westornian
-Type1 = NORMAL
-Type2 = ICE
-Generation = 10
-#-------------------------------
-[LOPUNNY,3]
-FormName = Mega Lopunny
-MegaStone = LOPUNNITE
-Type1 = ICE
-Type2 = FIGHTING
-BaseStats = 65,136,94,135,54,96
-BaseEXP = 203
-Abilities = SCRAPPY
-HiddenAbility = SCRAPPY
-Height = 1.3
-Weight = 28.3
-Pokedex = It swings its ears like whips and strikes its enemies with them. It has an intensely combative disposition.
-Generation = 6
+BattlerPlayerY = 42
+BattlerEnemyX = 0
+BattlerEnemyY = 15
 #-------------------------------
 [GARCHOMP,1]
 FormName = Mega Garchomp
@@ -1731,7 +1464,9 @@ Abilities = SANDFORCE
 HiddenAbility = SANDFORCE
 Pokedex = Its vaunted wings become scythes, sending it mad with rage. It swings its scythes wildly and slices the ground to pieces.
 Generation = 6
-BattlerEnemyY = 13
+BattlerPlayerX = 2
+BattlerPlayerY = 44
+BattlerEnemyX = 2
 #-------------------------------
 [LUCARIO,1]
 FormName = Mega Lucario
@@ -1744,7 +1479,9 @@ Height = 1.3
 Weight = 57.5
 Pokedex = It readies itself to face its enemies by focusing its mental energies. Its fighting style can be summed up in a single word: heartless.
 Generation = 6
-BattlerEnemyY = 19
+BattlerPlayerY = 46
+BattlerEnemyX = 3
+BattlerEnemyY = 18
 #-------------------------------
 [ABOMASNOW,1]
 FormName = Mega Abomasnow
@@ -1755,49 +1492,9 @@ HiddenAbility = SNOWWARNING
 Height = 2.7
 Weight = 185.0
 Generation = 6
-BattlerPlayerY = 11
+BattlerEnemyX = 3
 BattlerEnemyY = 15
-#-------------------------------
-[LEAFEON,1]
-FormName = Mega Leafeon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
-#-------------------------------
-[GLACEON,1]
-FormName = Mega Glaceon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
-#-------------------------------
-[GLISCOR,1]
-FormName = Mega Gliscor
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
-#-------------------------------
-[PORYGONZ,1]
-FormName = Mega Porygon-Z
-MegaStone = GALLADITE
-Type1 = RADIOACTIVE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
+BattlerShadowSize = 3
 #-------------------------------
 [GALLADE,1]
 FormName = Mega Gallade
@@ -1808,7 +1505,9 @@ Abilities = INNERFOCUS
 HiddenAbility = INNERFOCUS
 Weight = 56.4
 Generation = 6
-BattlerPlayerY = 11
+BattlerPlayerX = 3
+BattlerPlayerY = 44
+BattlerEnemyX = 8
 BattlerEnemyY = 15
 #-------------------------------
 [ROTOM,1]
@@ -1818,8 +1517,9 @@ Type2 = FIRE
 BaseStats = 50,65,107,86,105,107
 BaseEXP = 182
 Pokedex = This Rotom has possessed a convection microwave oven that uses a special motor. It also has a flair for manipulating flames.
-BattlerPlayerY = 22
-BattlerEnemyY = 26
+BattlerPlayerY = 56
+BattlerEnemyY = 16
+BattlerShadowSize = 2
 #-------------------------------
 [ROTOM,2]
 FormName = Wash Rotom
@@ -1828,8 +1528,9 @@ Type2 = WATER
 BaseStats = 50,65,107,86,105,107
 BaseEXP = 182
 Pokedex = This Rotom has possessed a washing machine that uses a special motor. It blasts out water to get enemies to back down.
-BattlerPlayerY = 18
+BattlerPlayerY = 52
 BattlerEnemyY = 22
+BattlerShadowSize = 2
 #-------------------------------
 [ROTOM,3]
 FormName = Frost Rotom
@@ -1838,8 +1539,9 @@ Type2 = ICE
 BaseStats = 50,65,107,86,105,107
 BaseEXP = 182
 Pokedex = When it's like this, Rotom likes to play pranks that are freezing cold. You may find it's turned the bath you just filled to solid ice!
-BattlerPlayerY = 14
-BattlerEnemyY = 19
+BattlerPlayerY = 52
+BattlerEnemyY = 18
+BattlerShadowSize = 2
 #-------------------------------
 [ROTOM,4]
 FormName = Fan Rotom
@@ -1848,8 +1550,9 @@ Type2 = FLYING
 BaseStats = 50,65,107,86,105,107
 BaseEXP = 182
 Pokedex = In this form, Rotom applies its new power over wind to its love of pranks. It will happily blow away any important documents it can find.
-BattlerPlayerY = 19
-BattlerEnemyY = 23
+BattlerPlayerY = 58
+BattlerEnemyY = 12
+BattlerShadowSize = 2
 #-------------------------------
 [ROTOM,5]
 FormName = Mow Rotom
@@ -1858,35 +1561,9 @@ Type2 = GRASS
 BaseStats = 50,65,107,86,105,107
 BaseEXP = 182
 Pokedex = This is Rotom after it's seized control of a lawn mower that has a special motor. As it mows down grass, it scatters the clippings everywhere.
-BattlerPlayerY = 22
+BattlerPlayerY = 56
 BattlerEnemyY = 19
-#-------------------------------
-[ROTOM,6]
-FormName = Geiger Rotom
-Type1 = ELECTRIC
-Type2 = RADIOACTIVE
-BaseStats = 50,65,107,86,105,107
-BaseEXP = 182
-Pokedex = This is Rotom after it's seized control of a lawn mower that has a special motor. As it mows down grass, it scatters the clippings everywhere.
-BattlerPlayerY = 1
-#-------------------------------
-[UXIE,1]
-FormName = Westornian
-Type1 = PSYCHIC
-Type2 = STEEL
-Generation = 10
-#-------------------------------
-[MESPRIT,1]
-FormName = Westornian
-Type1 = PSYCHIC
-Type2 = FAIRY
-Generation = 10
-#-------------------------------
-[AZELF,1]
-FormName = Westornian
-Type1 = PSYCHIC
-Type2 = FIGHTING
-Generation = 10
+BattlerShadowSize = 2
 #-------------------------------
 [GIRATINA,1]
 FormName = Origin Forme
@@ -1897,7 +1574,9 @@ TutorMoves = AERIALACE,AURASPHERE,BODYSLAM,BREAKINGSWIPE,BRUTALSWING,BULLDOZE,CA
 Height = 6.9
 Weight = 650.0
 Shape = Serpentine
-BattlerEnemyY = 12
+BattlerPlayerX = 0
+BattlerPlayerY = 40
+BattlerEnemyY = 4
 #-------------------------------
 [SHAYMIN,1]
 FormName = Sky Forme
@@ -1910,7 +1589,8 @@ Moves = 1,GROWTH,10,MAGICALLEAF,19,LEECHSEED,28,QUICKATTACK,37,SWEETSCENT,46,HEA
 TutorMoves = BULLETSEED,CONFIDE,COVET,DAZZLINGGLEAM,DOUBLETEAM,ENDURE,ENERGYBALL,FACADE,FLASH,FRUSTRATION,GIGADRAIN,GIGAIMPACT,GRASSKNOT,HIDDENPOWER,HYPERBEAM,LASERFOCUS,LASTRESORT,NATUREPOWER,PROTECT,PSYCHIC,PSYCHUP,REST,RETURN,ROUND,SAFEGUARD,SEEDBOMB,SLEEPTALK,SNORE,SOLARBEAM,SUBSTITUTE,SUNNYDAY,SWAGGER,SWORDSDANCE,SYNTHESIS,TAILWIND,WORRYSEED,ZENHEADBUTT
 Height = 0.4
 Weight = 5.2
-BattlerPlayerY = 22
+BattlerPlayerY = 54
+BattlerEnemyX = -2
 BattlerEnemyY = 26
 #-------------------------------
 [ARCEUS,1]
@@ -1948,6 +1628,8 @@ Type1 = STEEL
 [ARCEUS,9]
 FormName = Unknown Type
 Type1 = QMARKS
+BattlerPlayerY = 0
+BattlerEnemyY = 7
 FrontSpriteScale = 1
 BackSpriteScale = 1
 #-------------------------------
@@ -2001,27 +1683,15 @@ Height = 1.5
 Weight = 32.0
 Color = White
 Generation = 6
-BattlerPlayerY = 16
-BattlerEnemyY = 21
-#-------------------------------
-[PETILIL,1]
-FormName = Westornian
-Type1 = GRASS
-Type2 = FAIRY
-Generation = 10
-#-------------------------------
-[LILLIGANT,1]
-FormName = Westornian
-Type1 = GRASS
-Type2 = FAIRY
-Generation = 10
+BattlerPlayerX = -6
+BattlerEnemyX = 0
+BattlerEnemyY = 20
 #-------------------------------
 [BASCULIN,1]
 FormName = Blue-Striped
 Abilities = ROCKHEAD,ADAPTABILITY
 Pokedex = Known for their violence, these Pokémon have the most fights with schools of red-striped Basculin.
 WildItemUncommon = DEEPSEASCALE
-BattlerEnemyY = 37
 #-------------------------------
 [DARUMAKA,1]
 FormName = Galarian
@@ -2058,7 +1728,7 @@ BaseEXP = 189
 EffortPoints = 0,0,0,0,2,0
 Color = Blue
 Pokedex = When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.
-BattlerPlayerY = 30
+BattlerPlayerY = 65
 BattlerEnemyY = 33
 #-------------------------------
 [DARMANITAN,3]
@@ -2077,7 +1747,7 @@ Color = White
 Kind = Zen Charm
 Pokedex = Darmanitan takes this form when enraged. It won't stop spewing flames until its rage has settled, even if its body starts to melt.
 Generation = 8
-BattlerPlayerY = 27
+BattlerPlayerY = 61
 BattlerEnemyY = 30
 #-------------------------------
 [YAMASK,1]
@@ -2090,27 +1760,9 @@ Moves = 1,ASTONISH,1,PROTECT,4,HAZE,8,NIGHTSHADE,12,DISABLE,16,BRUTALSWING,20,CR
 TutorMoves = ALLYSWITCH,ATTRACT,BRUTALSWING,CALMMIND,DARKPULSE,EARTHPOWER,EARTHQUAKE,ENDURE,ENERGYBALL,FACADE,FAKETEARS,HEX,HIDDENPOWER,IMPRISON,IRONDEFENSE,NASTYPLOT,PAYBACK,POLTERGEIST,PROTECT,PSYCHIC,RAINDANCE,REST,ROCKSLIDE,ROCKTOMB,ROUND,SAFEGUARD,SANDSTORM,SHADOWBALL,SLEEPTALK,SNORE,SUBSTITUTE,THIEF,TOXICSPIKES,TRICKROOM,WILLOWISP,WONDERROOM,ZENHEADBUTT
 Pokedex = It's said that this Pokémon was formed when an ancient clay tablet was drawn to a vengeful spirit.
 Generation = 8
-BattlerPlayerY = 27
-BattlerEnemyY = 30
+BattlerPlayerX = -1
+BattlerEnemyX = 0
 Evolutions = RUNERIGUS,DamageDone,49
-#-------------------------------
-[VANILLITE,1]
-FormName = Westornian
-Type1 = ICE
-Type2 = GHOST
-Generation = 10
-#-------------------------------
-[VANILLISH,1]
-FormName = Westornian
-Type1 = ICE
-Type2 = GHOST
-Generation = 10
-#-------------------------------
-[VANILLUXE,1]
-FormName = Westornian
-Type1 = ICE
-Type2 = GHOST
-Generation = 10
 #-------------------------------
 [DEERLING,1]
 FormName = Summer Form
@@ -2147,13 +1799,7 @@ Weight = 20.5
 Color = Green
 Pokedex = Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
 Generation = 8
-BattlerEnemyY = 33
-#-------------------------------
-[DRUDDIGON,1]
-FormName = Westornian
-Type1 = DRAGON
-Type2 = ROCK
-Generation = 10
+BattlerPlayerY = 62
 #-------------------------------
 [TORNADUS,1]
 FormName = Therian Forme
@@ -2163,8 +1809,10 @@ Abilities = REGENERATOR
 HiddenAbility = REGENERATOR
 Height = 1.4
 Shape = Winged
-BattlerPlayerY = 8
-BattlerEnemyY = 11
+BattlerPlayerY = 42
+BattlerEnemyX = 7
+BattlerEnemyY = 13
+BattlerShadowSize = 3
 #-------------------------------
 [THUNDURUS,1]
 FormName = Therian Forme
@@ -2175,7 +1823,7 @@ HiddenAbility = VOLTABSORB
 TutorMoves = ATTRACT,BRICKBREAK,BRUTALSWING,BULKUP,CHARGEBEAM,CONFIDE,DARKPULSE,DEFOG,DOUBLETEAM,ELECTROWEB,EMBARGO,FACADE,FLASHCANNON,FLING,FLY,FOCUSBLAST,FOULPLAY,FRUSTRATION,GIGAIMPACT,GRASSKNOT,HIDDENPOWER,HYPERBEAM,IRONTAIL,KNOCKOFF,PAYBACK,PROTECT,PSYCHIC,RAINDANCE,REST,RETURN,ROCKSMASH,ROLEPLAY,ROUND,SHOCKWAVE,SKYDROP,SLEEPTALK,SLUDGEBOMB,SLUDGEWAVE,SMACKDOWN,SNORE,STRENGTH,SUBSTITUTE,SUPERPOWER,SWAGGER,TAUNT,THIEF,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TORMENT,TOXIC,UPROAR,UTURN,VOLTSWITCH,WILDCHARGE
 Height = 3.0
 Shape = BipedalTail
-BattlerPlayerY = 2
+BattlerPlayerY = 44
 #-------------------------------
 [LANDORUS,1]
 FormName = Therian Forme
@@ -2185,8 +1833,8 @@ Abilities = INTIMIDATE
 HiddenAbility = INTIMIDATE
 Height = 1.3
 Shape = Quadruped
-BattlerPlayerY = 6
-BattlerEnemyY = 11
+BattlerPlayerY = 36
+BattlerEnemyY = 12
 #-------------------------------
 [KYUREM,1]
 FormName = White Kyurem
@@ -2197,8 +1845,10 @@ Abilities = TURBOBLAZE
 Moves = 1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONFLARE,50,ICEBURN,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
 Height = 3.6
 Pokedex = It has foreseen that a world of truth will arrive for people and Pokémon. It strives to protect that future.
-BattlerPlayerY = 9
-BattlerEnemyY = 7
+BattlerPlayerX = 20
+BattlerPlayerY = 50
+BattlerEnemyX = 8
+BattlerEnemyY = 8
 #-------------------------------
 [KYUREM,2]
 FormName = Black Kyurem
@@ -2209,7 +1859,8 @@ Abilities = TERAVOLT
 Moves = 1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONBOLT,50,FREEZESHOCK,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
 Height = 3.3
 Pokedex = It's said that this Pokémon battles in order to protect the ideal world that will exist in the future for people and Pokémon.
-BattlerPlayerY = 0
+BattlerPlayerY = 38
+BattlerEnemyX = 9
 BattlerEnemyY = 4
 #-------------------------------
 [KYUREM,3]
@@ -2221,8 +1872,10 @@ Abilities = TURBOBLAZE
 Moves = 1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONFLARE,50,ICEBURN,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
 Height = 3.6
 Pokedex = It has foreseen that a world of truth will arrive for people and Pokémon. It strives to protect that future.
-BattlerPlayerY = 9
-BattlerEnemyY = 7
+BattlerPlayerX = 20
+BattlerPlayerY = 50
+BattlerEnemyX = 8
+BattlerEnemyY = 8
 #-------------------------------
 [KYUREM,4]
 PokedexForm = 2
@@ -2233,14 +1886,16 @@ Abilities = TERAVOLT
 Moves = 1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONBOLT,50,FREEZESHOCK,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
 Height = 3.3
 Pokedex = It's said that this Pokémon battles in order to protect the ideal world that will exist in the future for people and Pokémon.
-BattlerPlayerY = 0
+BattlerPlayerY = 38
+BattlerEnemyX = 9
 BattlerEnemyY = 4
 #-------------------------------
 [KELDEO,1]
 FormName = Resolute Form
 TutorMoves = AERIALACE,AQUATAIL,BOUNCE,CALMMIND,CONFIDE,COVET,CUT,DOUBLETEAM,ENDEAVOR,FACADE,FALSESWIPE,FOCUSBLAST,FRUSTRATION,GIGAIMPACT,HAIL,HELPINGHAND,HIDDENPOWER,HYPERBEAM,ICYWIND,LASTRESORT,LIQUIDATION,LOWKICK,POISONJAB,PROTECT,PSYCHUP,RAINDANCE,REFLECT,REST,RETURN,ROAR,ROCKSMASH,ROUND,SAFEGUARD,SCALD,SLEEPTALK,SNORE,STONEEDGE,STRENGTH,SUBSTITUTE,SUPERPOWER,SURF,SWAGGER,SWORDSDANCE,TAUNT,TOXIC,WATERPULSE,WORKUP,XSCISSOR
 Pokedex = The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything.
-BattlerPlayerY = 17
+BattlerPlayerY = 46
+BattlerEnemyX = 0
 BattlerEnemyY = 21
 #-------------------------------
 [MELOETTA,1]
@@ -2249,8 +1904,8 @@ Type1 = NORMAL
 Type2 = FIGHTING
 BaseStats = 100,128,90,128,77,77
 EffortPoints = 0,1,1,1,0,0
-BattlerPlayerY = 16
-BattlerEnemyY = 20
+BattlerPlayerY = 46
+BattlerEnemyX = 0
 #-------------------------------
 [GENESECT,1]
 FormName = Shock Drive
@@ -2276,7 +1931,7 @@ BaseEXP = 320
 Abilities = BATTLEBOND
 HiddenAbility = BATTLEBOND
 Generation = 7
-BattlerPlayerY = 14
+BattlerPlayerY = 48
 BattlerEnemyY = 15
 #-------------------------------
 [VIVILLON,1]
@@ -2414,7 +2069,7 @@ HiddenAbility = COMPETITIVE
 Moves = 1,STOREDPOWER,1,MEFIRST,1,MAGICALLEAF,1,SCRATCH,1,LEER,1,COVET,1,CONFUSION,5,COVET,9,CONFUSION,13,LIGHTSCREEN,17,PSYBEAM,19,FAKEOUT,22,DISARMINGVOICE,25,PSYSHOCK,28,CHARGEBEAM,31,SHADOWBALL,35,EXTRASENSORY,40,PSYCHIC,43,ROLEPLAY,45,SIGNALBEAM,48,SUCKERPUNCH,50,FUTURESIGHT,53,STOREDPOWER
 Color = White
 Pokedex = Females are a bit more selfish and aggressive than males. If they don't get what they want, they will torment you with their psychic abilities.
-BattlerPlayerY = 19
+BattlerPlayerY = 48
 BattlerEnemyY = 23
 #-------------------------------
 [AEGISLASH,1]
@@ -2422,22 +2077,8 @@ FormName = Blade Forme
 BaseStats = 60,140,50,60,140,50
 EffortPoints = 0,2,0,0,1,0
 Pokedex = Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.
-BattlerPlayerY = 9
-#-------------------------------
-[SYLVEON,1]
-FormName = Mega Sylveon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-#-------------------------------
-[CARBINK,1]
-FormName = Westornian
-Type1 = ROCK
-Type2 = DARK
-Generation = 10
+BattlerPlayerY = 57
+BattlerEnemyY = 9
 #-------------------------------
 [PUMPKABOO,1]
 FormName = Average Size
@@ -2504,8 +2145,10 @@ Color = Black
 Shape = Quadruped
 Pokedex = This is Zygarde when about 10% of its pieces have been assembled. It leaps at its opponent's chest and sinks its sharp fangs into them.
 Generation = 7
-BattlerPlayerY = 13
+BattlerPlayerY = 44
+BattlerEnemyX = -1
 BattlerEnemyY = 20
+BattlerShadowSize = 2
 #-------------------------------
 [ZYGARDE,2]
 FormName = Complete Forme
@@ -2519,7 +2162,8 @@ Color = Black
 Shape = BipedalTail
 Pokedex = This is Zygarde's perfected form. From the orifice on its chest, it radiates high-powered energy that eliminates everything.
 Generation = 7
-BattlerPlayerY = 1
+BattlerPlayerY = 49
+BattlerEnemyX = 11
 BattlerEnemyY = 4
 #-------------------------------
 [ZYGARDE,3]
@@ -2532,7 +2176,8 @@ Height = 4.5
 Weight = 610.0
 Color = Black
 Shape = BipedalTail
-BattlerPlayerY = 1
+BattlerPlayerY = 49
+BattlerEnemyX = 11
 BattlerEnemyY = 4
 #-------------------------------
 [DIANCIE,1]
@@ -2544,8 +2189,11 @@ Abilities = MAGICBOUNCE
 HiddenAbility = MAGICBOUNCE
 Height = 1.1
 Weight = 27.8
-BattlerPlayerY = 6
-BattlerEnemyY = 4
+BattlerPlayerX = 11
+BattlerPlayerY = 48
+BattlerEnemyX = -1
+BattlerEnemyY = 3
+BattlerShadowSize = 3
 #-------------------------------
 [HOOPA,1]
 FormName = Hoopa Unbound
@@ -2557,8 +2205,11 @@ Moves = 1,HYPERSPACEFURY,1,TRICK,1,DESTINYBOND,1,ALLYSWITCH,1,CONFUSION,6,ASTONI
 Height = 6.5
 Weight = 490.0
 Shape = BipedalTail
-BattlerPlayerY = 0
+BattlerPlayerX = 8
+BattlerPlayerY = 32
+BattlerEnemyX = 4
 BattlerEnemyY = 6
+BattlerShadowSize = 3
 #-------------------------------
 [ORICORIO,1]
 FormName = Pom-Pom Style
@@ -2566,8 +2217,7 @@ Type1 = ELECTRIC
 Type2 = FLYING
 Color = Yellow
 Pokedex = It creates an electric charge by rubbing its feathers together. It dances over to its enemies and delivers shocking electrical punches.
-BattlerPlayerY = 22
-BattlerEnemyY = 28
+BattlerEnemyX = -2
 #-------------------------------
 [ORICORIO,2]
 FormName = Pa'u Style
@@ -2575,7 +2225,8 @@ Type1 = PSYCHIC
 Type2 = FLYING
 Color = Pink
 Pokedex = This Oricorio relaxes by swaying gently. This increases its psychic energy, which it then fires at its enemies.
-BattlerPlayerY = 21
+BattlerEnemyX = 4
+BattlerEnemyY = 24
 #-------------------------------
 [ORICORIO,3]
 FormName = Sensu Style
@@ -2601,7 +2252,8 @@ Height = 1.1
 Color = Red
 Shape = BipedalTail
 Pokedex = It's invigorated by powerful opponents, the stronger the better. A full-force headbutt from one of these Lycanroc can shatter giant boulders.
-BattlerPlayerY = 13
+BattlerPlayerY = 46
+BattlerEnemyX = -9
 BattlerEnemyY = 14
 #-------------------------------
 [LYCANROC,2]
@@ -2621,14 +2273,10 @@ Height = 8.2
 Weight = 78.6
 Shape = MultiBody
 Pokedex = When facing tough opponents, they get into formation. But if they get wounded in battle, they'll scatter and become solitary again.
-BattlerPlayerY = 1
+BattlerPlayerY = 58
+BattlerEnemyX = 9
 BattlerEnemyY = 14
-#-------------------------------
-[COMFEY,1]
-FormName = Westornian
-Type1 = GRASS
-Type2 = WATER
-Generation = 10
+BattlerShadowSize = 3
 #-------------------------------
 [SILVALLY,1]
 FormName = Type: Fighting
@@ -2729,8 +2377,6 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Red
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [MINIOR,8]
 FormName = Orange Core
@@ -2740,8 +2386,6 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Red
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [MINIOR,9]
 FormName = Yellow Core
@@ -2751,8 +2395,6 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Yellow
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [MINIOR,10]
 FormName = Green Core
@@ -2762,8 +2404,6 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Green
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [MINIOR,11]
 FormName = Blue Core
@@ -2773,8 +2413,6 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Blue
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [MINIOR,12]
 FormName = Indigo Core
@@ -2784,8 +2422,6 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Blue
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [MINIOR,13]
 FormName = Violet Core
@@ -2795,12 +2431,11 @@ EffortPoints = 0,1,0,0,1,0
 Weight = 0.3
 Color = Purple
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
-BattlerPlayerY = 32
-BattlerEnemyY = 36
 #-------------------------------
 [MIMIKYU,1]
 FormName = Busted Form
 Pokedex = Its disguise made from an old rag allowed it to avoid an attack, but the impact broke the neck of the disguise. Now everyone knows it's a Mimikyu.
+BattlerEnemyX = 5
 #-------------------------------
 [NECROZMA,1]
 FormName = Dusk Mane
@@ -2814,8 +2449,9 @@ Weight = 460.0
 Color = Yellow
 Shape = Quadruped
 Pokedex = This is Necrozma's form while it's absorbing the power of Solgaleo, making it extremely ferocious and impossible to control.
-BattlerPlayerY = 4
-BattlerEnemyY = 4
+BattlerPlayerY = 42
+BattlerEnemyX = 10
+BattlerEnemyY = 8
 #-------------------------------
 [NECROZMA,2]
 FormName = Dawn Wings
@@ -2828,8 +2464,10 @@ Height = 4.2
 Weight = 350.0
 Color = Blue
 Pokedex = Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.
-BattlerPlayerY = 3
-BattlerEnemyY = 7
+BattlerPlayerX = 4
+BattlerPlayerY = 40
+BattlerEnemyX = -3
+BattlerEnemyY = 1
 #-------------------------------
 [NECROZMA,3]
 FormName = Ultra Necrozma
@@ -2842,8 +2480,8 @@ Abilities = NEUROFORCE
 Height = 7.5
 Color = Yellow
 Pokedex = The light pouring out from all over its body affects living things and nature, impacting them in various ways.
-BattlerPlayerY = 1
-BattlerEnemyY = 8
+BattlerEnemyX = 4
+BattlerEnemyY = 4
 #-------------------------------
 [NECROZMA,4]
 PokedexForm = 3
@@ -2855,22 +2493,23 @@ EffortPoints = 0,1,0,1,1,0
 Abilities = NEUROFORCE
 Height = 7.5
 Color = Yellow
-BattlerPlayerY = 1
-BattlerEnemyY = 8
+BattlerEnemyX = 4
+BattlerEnemyY = 4
 #-------------------------------
 [MAGEARNA,1]
 FormName = Original Color
 Color = Red
 Pokedex = This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king's daughter.
-BattlerPlayerY = 16
 #-------------------------------
 [CRAMORANT,1]
 FormName = Gulping Form
 Pokedex = The slightest shock is sometimes enough to get this Pokémon to spit out the Arrokuda lodged in its throat.
+BattlerEnemyX = -6
 #-------------------------------
 [CRAMORANT,2]
 FormName = Gorging Form
 Pokedex = The half-swallowed Pikachu is so startled that it isn't struggling yet, but it's still looking for a chance to strike back.
+BattlerEnemyX = -6
 #-------------------------------
 [TOXTRICITY,1]
 FormName = Low Key Form
@@ -2878,8 +2517,10 @@ Abilities = PUNKROCK,MINUS
 Moves = 0,SPARK,1,SPARK,1,EERIEIMPULSE,1,BELCH,1,TEARFULLOOK,1,NUZZLE,1,GROWL,1,FLAIL,1,ACID,1,THUNDERSHOCK,1,ACIDSPRAY,1,LEER,1,NOBLEROAR,4,CHARGE,8,SHOCKWAVE,12,SCARYFACE,16,TAUNT,20,VENOMDRENCH,24,SCREECH,28,SWAGGER,32,TOXIC,36,DISCHARGE,40,POISONJAB,44,OVERDRIVE,48,BOOMBURST,52,MAGNETICFLUX
 TutorMoves = ATTRACT,DRAINPUNCH,EERIEIMPULSE,ELECTROBALL,ENCORE,ENDURE,FACADE,FIREPUNCH,FLING,GIGAIMPACT,GUNKSHOT,HEX,HYPERBEAM,HYPERVOICE,MEGAKICK,MEGAPUNCH,PAYBACK,POISONJAB,PROTECT,REST,RISINGVOLTAGE,ROUND,SCARYFACE,SCREECH,SLEEPTALK,SLUDGEBOMB,SLUDGEWAVE,SNARL,SNORE,STOREDPOWER,SUBSTITUTE,SWIFT,TAUNT,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,UPROAR,VENOMDRENCH,VOLTSWITCH,WILDCHARGE
 Pokedex = It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.
-BattlerPlayerY = 7
-BattlerEnemyY = 11
+BattlerPlayerX = 0
+BattlerPlayerY = 44
+BattlerEnemyX = 4
+BattlerEnemyY = 10
 #-------------------------------
 [SINISTEA,1]
 FormName = Antique Form
@@ -3076,6 +2717,7 @@ PokedexForm = 56
 FormName = Noice Face
 BaseStats = 75,80,70,130,65,50
 Pokedex = The hair on its head connects to the surface of its brain. When this Pokémon has something on its mind, its hair chills the air around it.
+BattlerShadowSize = 1
 #-------------------------------
 [INDEEDEE,1]
 FormName = Female
@@ -3086,7 +2728,9 @@ Moves = 1,STOREDPOWER,1,PLAYNICE,5,BATONPASS,10,DISARMINGVOICE,15,PSYBEAM,20,HEL
 TutorMoves = ALLYSWITCH,ATTRACT,BATONPASS,CALMMIND,DAZZLINGGLEAM,DRAININGKISS,DRAINPUNCH,ENDURE,ENERGYBALL,EXPANDINGFORCE,FACADE,FUTURESIGHT,GUARDSWAP,HELPINGHAND,HYPERVOICE,IMPRISON,LIGHTSCREEN,MAGICALLEAF,METRONOME,MYSTICALFIRE,PAYDAY,PLAYROUGH,PROTECT,PSYCHIC,PSYCHICTERRAIN,PSYSHOCK,REFLECT,REST,ROUND,SAFEGUARD,SHADOWBALL,SLEEPTALK,SNORE,STOREDPOWER,SUBSTITUTE,SWIFT,TERRAINPULSE,TRICK,ZENHEADBUTT
 EggMoves = FAKEOUT,HEALPULSE,PSYCHUP,PSYCHOSHIFT
 Pokedex = They diligently serve people and Pokémon so they can gather feelings of gratitude. The females are particularly good at babysitting.
-BattlerPlayerY = 23
+BattlerPlayerY = 54
+BattlerEnemyX = -2
+BattlerEnemyY = 24
 #-------------------------------
 [MORPEKO,1]
 FormName = Hangry Mode
@@ -3101,6 +2745,9 @@ BaseStats = 92,170,115,148,80,115
 BaseEXP = 360
 Weight = 355.0
 Pokedex = Able to cut down anything with a single strike, it became known as the Fairy King's Sword, and it inspired awe in friend and foe alike.
+BattlerPlayerY = 54
+BattlerEnemyX = -2
+BattlerEnemyY = 6
 #-------------------------------
 [ZAMAZENTA,1]
 FormName = Crowned Shield
@@ -3110,7 +2757,9 @@ BaseStats = 92,130,145,128,80,145
 BaseEXP = 360
 Weight = 785.0
 Pokedex = Now that it's equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pokémon.
-BattlerEnemyY = 7
+BattlerPlayerY = 54
+BattlerEnemyX = -3
+BattlerEnemyY = 11
 #-------------------------------
 [URSHIFU,1]
 FormName = Rapid Strike Style
@@ -3119,8 +2768,10 @@ Type2 = WATER
 Moves = 0,SURGINGSTRIKES,1,SURGINGSTRIKES,1,AQUAJET,1,ROCKSMASH,1,LEER,1,ENDURE,1,FOCUSENERGY,12,AERIALACE,16,SCARYFACE,20,HEADBUTT,24,BRICKBREAK,28,DETECT,32,BULKUP,36,IRONHEAD,40,DYNAMICPUNCH,44,COUNTER,48,CLOSECOMBAT,52,FOCUSPUNCH
 TutorMoves = ACROBATICS,ATTRACT,AURASPHERE,BODYPRESS,BODYSLAM,BRICKBREAK,BRINE,BULKUP,CLOSECOMBAT,COACHING,DIG,DIVE,DRAINPUNCH,ENDURE,FACADE,FALSESWIPE,FIREPUNCH,FOCUSBLAST,FOCUSENERGY,GIGAIMPACT,HELPINGHAND,ICEPUNCH,IRONDEFENSE,IRONHEAD,LIQUIDATION,LOWKICK,LOWSWEEP,MEGAKICK,MEGAPUNCH,POISONJAB,PROTECT,RAINDANCE,REST,RETALIATE,REVENGE,REVERSAL,ROCKSLIDE,ROCKTOMB,ROUND,SCALD,SCARYFACE,SLEEPTALK,SNORE,STONEEDGE,SUBSTITUTE,SUPERPOWER,SWIFT,TAUNT,THUNDERPUNCH,UTURN,WATERFALL,WHIRLPOOL,WORKUP,ZENHEADBUTT
 Pokedex = This form of Urshifu is a strong believer in defeating foes by raining many blows down on them. Its strikes are nonstop, flowing like a river.
-BattlerPlayerY = 8
-BattlerEnemyY = 12
+BattlerPlayerX = -2
+BattlerPlayerY = 48
+BattlerEnemyX = -4
+BattlerEnemyY = 10
 #-------------------------------
 [CALYREX,1]
 FormName = Ice Rider
@@ -3138,8 +2789,10 @@ Color = White
 Shape = Quadruped
 Kind = High King
 Pokedex = It's said that this Pokémon once moved a large forest,and all the Pokémon living there, to a new location overnight.
-BattlerPlayerY = 8
-BattlerEnemyY = 11
+BattlerPlayerY = 48
+BattlerEnemyX = 0
+BattlerEnemyY = 12
+BattlerShadowSize = 3
 #-------------------------------
 [CALYREX,2]
 FormName = Shadow Rider
@@ -3156,15 +2809,6 @@ Weight = 53.6
 Color = Black
 Shape = Quadruped
 Kind = High King
-BattlerPlayerY = 4
-BattlerEnemyY = 9
-#-------------------------------
-[FERMEON,1]
-FormName = Mega Fermeon
-MegaStone = GALLADITE
-BaseStats = 68,165,95,110,65,115
-BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
-Weight = 56.4
-Generation = 6
+BattlerPlayerY = 47
+BattlerEnemyX = -5
+BattlerShadowSize = 3

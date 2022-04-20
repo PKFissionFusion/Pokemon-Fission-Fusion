@@ -81,10 +81,6 @@ LoseText = "Our teamwork failed!"
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
 #-------------------------------
-[POKEMONTRAINER_Brendan,Brendan]
-LoseText = "..."
-Pokemon = MARSHTOMP,19
-#-------------------------------
 [SWIMMER2_F,Ariel]
 LoseText = "Washed out!"
 Pokemon = STARYU,15
@@ -116,3 +112,735 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[BACKPACKER_M,Liam]
+LoseText = "Aww, I lost."
+Pokemon = TANGELA,10
+Pokemon = TANGELA,13
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = "Aww, I lost."
+Pokemon = BIDOOF,11
+Pokemon = METAPOD,11
+#-------------------------------
+[BACKPACKER_M,Jeff]
+LoseText = "Aww, I lost."
+Pokemon = TANGELA,11
+Pokemon = FOONGUS,10
+Pokemon = SHROOMISH,10
+#-------------------------------
+[BACKPACKER_F,Susie]
+LoseText = "Aww, I lost."
+Pokemon = FOONGUS,11
+#-------------------------------
+[HIKER, Ford]
+LoseText = "Aww, I lost."
+Pokemon = TOGETIC,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = "Aww, I lost."
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[CHAMPION,Oppenheimer,2]
+LoseText = "You have bested me."
+Pokemon = DUNSPARCE,68,
+Pokemon = ORACON,67
+Pokemon = APUPERIOR,67
+Pokemon = FRANCIUM,67
+Pokemon = TURBOTON,67
+Pokemon = TRELLISOR,67
+#-------------------------------
+[BUGCATCHER,Rick]
+LoseText = "Aww, I lost."
+Pokemon = SHUCKLE,7
+#-------------------------------
+[YOUNGSTER,Carson]
+LoseText = "Aww, I lost."
+Pokemon = DEEDEE,9
+Pokemon = METAPOD,9
+#-------------------------------
+[YOUNGSTER,Ed]
+LoseText = "Aww, I lost."
+Pokemon = FORTIDOG,6,
+Pokemon = FORTIDOG,7,
+Pokemon = FORTIDOG,8,
+#-------------------------------
+[RIVALO,Otto,1]
+LoseText = "Not too shabby."
+Pokemon = BOTTLEFIN,4,
+#-------------------------------
+[FRIENDM,Marie,1]
+LoseText = "Golly, you're strong!"
+Pokemon = BIDOOF,4
+#-------------------------------
+[UGBOSS_TIREO,Tireo,1]
+LoseText = "Good. You've passed my first test."
+Pokemon = GOOMY,5,
+	Moves = TACKLE,BUBBLE,ABSORB
+Pokemon = GIBLE,5
+	Moves = TACKLE,
+#-------------------------------
+[UGBOSS_TIREO,Tireo,2]
+LoseText = "Good. You've passed my first test."
+Pokemon = GOOMY,8,
+	Moves = TACKLE,BUBBLE,ABSORB
+Pokemon = GIBLE,8,
+	Moves = TACKLE,SANDATTACK,SANDTOMB
+#-------------------------------
+[UGBOSS_TIREO,Tireo,3]
+LoseText = "Good. You've passed my first test."
+Pokemon = GOOMY,3,
+	Moves = TACKLE,ABSORB
+#-------------------------------
+[BACKPACKER_M,Dakota]
+LoseText = "Aww, I lost."
+Pokemon = SHROOMISH,11
+Pokemon = MUDPOLE,10
+#-------------------------------
+[BIRDKEEPER,Aaron]
+LoseText = "Aww, I lost."
+Pokemon = GOLDIE,12
+Pokemon = ANISOPTO,12
+#-------------------------------
+[BUGCATCHER,Erik]
+LoseText = "Aww, I lost."
+Pokemon = SHUCKLE,10,
+Pokemon = ANISOPTO,11,
+#-------------------------------
+[BUGCATCHER,Pal]
+LoseText = "Aww, I lost."
+Pokemon = METAPOD,10,
+Pokemon = KAKUNA,10,
+Pokemon = BUTTERFREE,11,
+#-------------------------------
+[BACKPACKER_F,Jess]
+LoseText = "Defeated! Oh my!"
+Pokemon = MUDPOLE,10,
+Pokemon = MUDPOLE,13,
+#-------------------------------
+[POKEMONRANGER_M,Paul]
+LoseText = "Aww, I lost."
+Pokemon = FORTIDOG,12,
+Pokemon = CUBCHOO,12,
+#-------------------------------
+[POKEMONRANGER_F,Paula]
+LoseText = "Defeated! Oh my!"
+Pokemon = BIDOOF,12,
+Pokemon = GOOMY,12
+#-------------------------------
+[RIVALO,Otto,2]
+LoseText = "Darn! I thought I had you!"
+Pokemon = CLERSEED,11
+Pokemon = ANISOPTO,11,
+Pokemon = BOTTLEFIN,13,
+#-------------------------------
+[PARASOLLADY,Cindy]
+LoseText = "Defeated! Oh my!"
+Pokemon = BUTTERFREE,12,
+Pokemon = BUTTERFREE,12,
+#-------------------------------
+[SURVIVOR_F,Janet]
+LoseText = "Defeated! Oh my!"
+Pokemon = CUTESIE,12,
+Pokemon =  BIDOOF,13,
+#-------------------------------
+[SURVIVOR_M,Rob]
+LoseText = "Aww, I lost."
+Pokemon = FORTIDOG,13,
+Pokemon = MUDPOLE,13,
+#-------------------------------
+[BUGCATCHER,David]
+LoseText = "Aww, I lost."
+Pokemon = ANISOPTO,11,
+Pokemon = ANISOPTO,12,
+Pokemon = ANISOPTO,13,
+#-------------------------------
+[POKEMONRANGER_M,Adrian]
+LoseText = "Aww, I lost."
+Pokemon = VENIPEDE,13,
+Pokemon = SHROOMISH,13,
+#-------------------------------
+[POKEMONRANGER_F,Adriana]
+LoseText = "Defeated! Oh my!"
+Pokemon = FOONGUS,13,
+Pokemon = WINGULL,13,
+#-------------------------------
+[FRIENDM,Marie,2]
+LoseText = "I knew you could do it!"
+Pokemon = BIDOOF,12,
+Pokemon = BUTTERFREE,12,
+Pokemon = MUDPOLE,14,
+#-------------------------------
+[GREASER,Freddy]
+LoseText = "Aww, I lost."
+Pokemon = KOFFING,16,
+#-------------------------------
+[BACKPACKER_M,Joe]
+LoseText = "Aww, I lost."
+Pokemon = GOOMY,11,
+	Moves =LEER,THUNDERWAVE,ABSORB,TACKLE
+Pokemon = AXEW,11,
+	Moves =LEER,ASSURANCE,TACKLE,DUALCHOP
+#-------------------------------
+[GREASER,James Dean]
+LoseText = "Aww, I lost."
+Pokemon = KOFFING,15
+Pokemon = GRIMER,15
+#-------------------------------
+[GREASER,Vinny]
+LoseText = "Aww, I lost."
+Pokemon = VENIPEDE,15
+Pokemon = ZANGOOSE,15,,QUICKATTACK,FURYCUTTER,PURSUIT,HONECLAWS
+#-------------------------------
+[GREASER,Jamie]
+LoseText = "Aww, I lost."
+Pokemon = SKARMORY,15,,LEER,PECK,SANDATTACK,METALCLAW
+#-------------------------------
+[UGBOSS_TIREO,Tireo,4]
+LoseText = "Pythion may be right after all."
+Pokemon = GOOMY,12,
+Pokemon = AXEW,13,
+Pokemon = LEGENFLY,14,
+	IV = 10,10,10,10,10,10
+#-------------------------------
+[UGBOSS_TIREO,Tireo,5]
+LoseText = "Pythion may be right after all."
+Pokemon = GOOMY,13,
+	Moves = RAINDANCE,THUNDERWAVE,DRAGONTAIL,MEGADRAIN
+	IV = 20,20,20,20,20,20
+Pokemon = GOOMY,13,
+	Moves = WATERPULSE,MEGADRAIN,DRAGONPULSE
+	IV = 20,20,20,20,20,20
+Pokemon = AXEW,14,
+	Moves = DRAGONCLAW,HONECLAWS,DOUBLEEDGE,
+	IV = 20,20,20,20,20,20
+Pokemon = LEGENFLY,15,
+	Moves = DRAGONBREATH,DOUBLETEAM,SONICBOOM,DETECT
+	IV = 15,15,15,15,15,15
+#-------------------------------
+[UGBOSS_TIREO,Tireo,6]
+LoseText = "Pythion may be right after all."
+Pokemon = GOOMY,14,
+	Item = DAMPROCK,
+	Moves = RAINDANCE,THUNDERWAVE,DRAGONTAIL,GIGADRAIN
+	IV = 20,20,20,20,20,20
+Pokemon = GOOMY,14,
+	Moves = MUDDYWATER,GIGADRAIN,SLUDGEWAVE,DRAGONPULSE
+	IV = 20,20,20,20,20,20
+Pokemon = AXEW,15,
+	Moves = AQUATAIL,HONECLAWS,DUALCHOP,IRONTAIL
+	IV = 20,20,20,20,20,20
+Pokemon = LEGENFLY,16,
+	Moves = DRAGONPULSE,DOUBLETEAM,SONICBOOM,BUGBUZZ
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[PARASOLLADY,Marsha]
+LoseText = "You're too good for me!"
+Pokemon = WINGULL,11,
+Pokemon = DEEDEE,13
+#-------------------------------
+[BIKER_1,Ross]
+LoseText = "Awe, I lost!"
+Pokemon = KOFFING,16
+Pokemon = SEVIPER,16,
+#-------------------------------
+[UGBOSS_MAIA,Maia,1]
+LoseText = "My fairies have blessed you."
+Pokemon = ELEGAAN,23,
+Pokemon = TOGETIC,23,
+Pokemon = GRANBULL,23,
+	IV = 15,15,15,15,15,15
+#-------------------------------
+[UGBOSS_MAIA,Maia,2]
+LoseText = "My fairies have blessed you."
+Pokemon = ELEGAAN,24,
+	Moves = DAZZLINGGLEAM,CHARM,THUNDERWAVE,CALMMIND
+	IV = 20,20,20,20,20,20
+Pokemon = TOGETIC,24,
+	ITEM = LEFTOVERS,
+	Moves = DAZZLINGGLEAM,ROOST,AURASPHERE,AIRSLASH
+	IV = 20,20,20,20,20,20
+Pokemon = GRANBULL,23,
+	Item = GRANBULLITE,
+	Moves = BITE,PLAYROUGH,DOUBLETEAM,EARTHQUAKE
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[UGBOSS_MAIA,Maia,3]
+LoseText = "My fairies have blessed you."
+Pokemon = COTTONEE,25,
+	Moves = DAZZLINGGLEAM,LEECHSEED,SLEEPPOWDER,GIGADRAIN
+	IV = 20,20,20,20,20,20
+Pokemon = ELEGAAN,25,
+	Moves = DAZZLINGGLEAM,CHARM,THUNDERWAVE,CALMMIND
+	IV = 20,20,20,20,20,20
+Pokemon = TOGETIC,25
+	Item = LEFTOVERS,
+	Moves = DAZZLINGGLEAM,ROOST,AURASPHERE,AIRSLASH
+	IV = 20,20,20,20,20,20
+Pokemon = GRANBULL,24
+	Item = GRANBULLITE,
+	Moves = CRUNCH,PLAYROUGH,DOUBLETEAM,EARTHQUAKE
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[UGBOSS_STELLA,Stella,1]
+LoseText = You have an ironclad will!"
+Pokemon = LUCARIO,27,
+Pokemon = SKARMORY,27,
+Pokemon = MAWILE,28,
+	Item = MAWILITE,
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[UGBOSS_STELLA,Stella,2]
+LoseText = You have an ironclad will!"
+Pokemon = DOUBLADE,28,
+	Moves = SWORDSDANCE,SHADOWSNEAK,IRONHEAD
+	IV = 20,20,20,20,20,20
+Pokemon = LUCARIO,28,
+	IV = 20,20,20,20,20,20
+Pokemon = SKARMORY,28,
+	Item = LEFTOVERS,
+	Moves = AIRSLASH,ROOST,STEELWING,TOXIC
+	IV = 20,20,20,20,20,20
+Pokemon = MAWILE,29,
+	Item = MAWILITE,
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[UGBOSS_STELLA,Stella,3]
+LoseText = You have an ironclad will!"
+Pokemon = DOUBLADE,28,
+	Item = OCCABERRY,
+	Moves = SWORDSDANCE,SHADOWSNEAK,IRONHEAD
+	IV = 20,20,20,20,20,20
+Pokemon = LUCARIO,28,
+	Item = AIRBALLOON,
+	Moves = FORCEPALM,POWERUPPUNCH,AGILITY,CLOSECOMBAT
+	IV = 20,20,20,20,20,20
+Pokemon = SKARMORY,28,
+	Item = LEFTOVERS,
+	Moves = AIRSLASH,ROOST,STEELWING,TOXIC
+	IV = 20,20,20,20,20,20
+Pokemon = MAWILE,29,
+	Item = MAWILITE,
+	Moves = ROCKTOMB,IRONHEAD,FIREFANG
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[UGBOSS_ASH,Ash,1]
+LoseText = "You burned me out!"
+Pokemon = EMBOAR,35,
+Pokemon = RAPIDASH,35,
+Pokemon = TREENIX,35,
+Pokemon = HOUNDOOM,36,
+	IV = 18,18,18,18,18,18
+#-------------------------------
+[UGBOSS_ASH,Ash,2]
+LoseText = "You burned me out!"
+Pokemon = TORKOAL,36,
+	Moves = SHELLSMASH,ALPHABLAST,FLAMETHROWER,
+	IV = 20,20,20,20,20,20
+Pokemon = EMBOAR,36,
+	Moves = FLAMECHARGE,POWERUPPUNCH,CLOSECOMBAT,FLAREBLITZ,
+	IV = 20,20,20,20,20,20
+Pokemon = RAPIDASH,36,
+	Moves = FLAMECHARGE,BLAZEKICK,HIGHHORSEPOWER,IRONDEFENSE
+	IV = 20,20,20,20,20,20
+Pokemon = TREENIX,36,
+	Moves = HORNLEECH,FLAMETHROWER,SOLARBLADE,FLAMECHARGE,
+	IV = 20,20,20,20,20,20
+Pokemon = HOUNDOOM,37
+	Item = HOUNDOOMINITE,
+	Moves = FLAMETHROWER,DARKPULSE,SNARL,THUNDERFANG
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[UGBOSS_ASH,Ash,3]
+LoseText = "You burned me out!"
+Pokemon = TORKOAL,37,
+	Item = FOCUSSASH,
+	Moves = SHELLSMASH,ALPHABLAST,FLAMETHROWER,
+	IV = 20,20,20,20,20,20
+Pokemon = EMBOAR,37,
+	Item = PASSHOBERRY,
+	Moves = FLAMECHARGE,POWERUPPUNCH,CLOSECOMBAT,FLAREBLITZ
+	IV = 20,20,20,20,20,20
+Pokemon = RAPIDASH,37,
+	Item = AIRBALLOON,
+	Moves = FLAMECHARGE,BLAZEKICK,HIGHHORSEPOWER,IRONDEFENSE
+	IV = 20,20,20,20,20,20
+Pokemon = TREENIX,37,
+	Item = LEFTOVERS,
+	Moves = HORNLEECH,FLAMETHROWER,SOLARBLADE,FLAMECHARGE
+	IV = 20,20,20,20,20,20
+Pokemon = HOUNDOOM,38,
+	Item = HOUNDOOMINITE,
+	Moves = FLAMETHROWER,DARKPULSE,SNARL,THUNDERFANG
+	IV = 20,20,20,20,20,20
+#-------------------------------
+[UGBOSS_WATER,NAMEGOESHERE]
+LoseText = "You washed me out!"
+Pokemon = TENTACRUEL,42
+Pokemon = AZUMARILL,42
+Pokemon = QUAGSIRE,42
+Pokemon = STEELFIN,42
+Pokemon = SLOWBRO,43,
+	Item = SLOWBRONITE
+#-------------------------------
+[UGBOSS_ELECTRIC,NAMEGOESHERE]
+LoseText = "What a shocking battle!"
+Pokemon = ELECTRODE,47
+Pokemon = ROTOM,47
+Pokemon = VIKAVOLT,47
+Pokemon = ROTOM,47
+Pokemon = JOLTEON,48,
+	Item = EEVEELUTIONITE
+#-------------------------------
+[UGBOSS_GROUND,NAMEGOESHERE]
+LoseText = "I was flattened!"
+Pokemon = GARCHOMP,52
+Pokemon = ARTIFROG,52
+Pokemon = GLISCOR,53,GLISCORITE
+Pokemon = CHELMMOR,52
+Pokemon = PALOSSAND,52
+#-------------------------------
+[UGBOSS_ICE,NAMEGOESHERE]
+LoseText = "You're going to freeze me out of my gym!"
+Pokemon = CHILLSORE,57
+Pokemon = GLACEON,57
+	Item = EEVEELUTIONITE
+Pokemon = WEAVILE,59
+Pokemon = SNOWWEL,59
+Pokemon = NINETALES,59
+#-------------------------------
+[ELITEFOUR_RADIO,RadioGaGa]
+LoseText = "Good."
+Pokemon = PORYGONZ,65
+	Item = PORYGONITE
+Pokemon = TRITTITE,64
+Pokemon = WEEZING,64
+Pokemon = ELECTIVIRE,64
+Pokemon = PROTIGHAST,64
+#-------------------------------
+[ELITEFOUR_DARK,Darkchick]
+LoseText = "Good."
+Pokemon = GYARADOS,65
+	Item = GYARADOSITE
+Pokemon = KROOKODILE,64
+Pokemon = MANDIBUZZ,64
+Pokemon = TYRANITAR,64
+Pokemon = HYDREIGON,64
+#-------------------------------
+[ELITEFOUR_GHOST,Ghostguy]
+LoseText = "Good."
+Pokemon = SABLEYE,65
+	Item = SABLENITE
+Pokemon = GENGAR,64
+Pokemon = DRAGAPULT,64
+Pokemon = CHANDELURE,64
+Pokemon = AEGISLASH,64
+#-------------------------------
+[ELITEFOUR_PSYCHIC,Psyguy]
+LoseText = "Good."
+Pokemon = CELESTION,64
+Pokemon = MEDICHAM,64
+Pokemon = TOTEMMON,64
+Pokemon = AINU,64
+Pokemon = METAGROSS,65,
+	Item = METAGROSSITE
+#-------------------------------
+[BEATNIK_M,Rod]
+LoseText = "Lost to a kid."
+Pokemon = BUIZEL,15,
+Pokemon = ZANGOOSE,15
+#-------------------------------
+[BEATNIK_F,Diane]
+LoseText = "Live on..."
+Pokemon = PURRLOIN,15,
+Pokemon = DEERLING,15,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_M,E05]
+LoseText = "You're too good for me!"
+Pokemon = ZUBAT,15,
+Pokemon = VENIPEDE,15,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_F,E06]
+LoseText = "You're too good for me!"
+Pokemon = ZUBAT,15,
+Pokemon = VOLTORB,15,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_M,P05]
+LoseText = "You're too good for me!"
+Pokemon = ZUBAT,15,
+Pokemon = VENIPEDE,15,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_F,P06]
+LoseText = "You're too good for me!"
+Pokemon = ZUBAT,15,
+Pokemon = VOLTORB,15,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_M,P07]
+LoseText = "You're too good for me!"
+Pokemon = FOONGUS,17,
+Pokemon = SHROOMISH,17,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_F,P08]
+LoseText = "You're too good for me!"
+Pokemon = VENIPEDE,16,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_M,P09]
+LoseText = "You're too good for me!"
+Pokemon = VENIPEDE,17,
+Pokemon = ZUBAT,18,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_F,P10]
+LoseText = "You're too good for me!"
+Pokemon = ZUBAT,17,
+Pokemon = ZUBAT,18,
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_M,P11]
+LoseText = "You're too good for me!"
+Pokemon = ZUBAT,17,
+Pokemon = CLERSEED,18
+#-------------------------------
+[TEAM_NEUTRINO_GRUNT_F,P12]
+LoseText = "You're too good for me!"
+Pokemon = PURRLOIN,16,
+Pokemon = LIEPARD,18
+#-------------------------------
+[PAINTER,Winston]
+LoseText = "Happy little accidents."
+Pokemon = DEERLING,15,
+Pokemon = ADORAVOLE,15
+#-------------------------------
+[BACKPACKER_M,Chris]
+LoseText = "You're too good for me!"
+Pokemon = CLERSEED,15
+Pokemon = GEODUDE,15,
+#-------------------------------
+[BACKPACKER_F,Christina]
+LoseText = "You're too good for me!"
+Pokemon = DEERLING,13,
+Pokemon = DEERLING,16,
+#-------------------------------
+[HIKER,Jeff]
+LoseText = "Awe I lost!"
+Pokemon = GEODUDE,14,
+Pokemon = GEODUDE,14,
+Pokemon = GEODUDE,15,
+#-------------------------------
+[FAIRYTALEGIRL,Abigail]
+LoseText = "My fairies gave you too much luck!"
+Pokemon = TOGEPI,16,
+#-------------------------------
+[HIKER,Bob]
+LoseText = "You're too strong!"
+Pokemon = SLUGMA,17,
+#-------------------------------
+[BLACKBELT,Troy]
+LoseText = "We need more training!"
+Pokemon = MACHOP,16,
+Pokemon = SCRAGGY,16
+Pokemon = MACHOP,16,
+#-------------------------------
+[HIKER,Paul]
+LoseText = "I lost my rocks!"
+Pokemon = GEODUDE,18
+#-------------------------------
+[BIKER,???]
+LoseText = "Hrmph."
+Pokemon = VOLTORB,18,
+	Moves = SPARK,ROLLOUT,SCREECH,CHARGEBEAM
+Pokemon = VOLTORB,18
+	Moves = SPARK,GAMMASHOT,SCREECH,CHARGEBEAM
+Pokemon = PROTIGHAST,21
+#-------------------------------
+[BEATNIK_M,Allen]
+LoseText = "Live on..."
+Pokemon = AUCKLET,18,
+Pokemon = GOLDIE,18,
+#-------------------------------
+[BEATNIK_F,Clarice]
+LoseText = "Live on..."
+Pokemon = MYSTIFIN,17
+Pokemon = BUIZEL,19,
+#-------------------------------
+[GREASER,Ted]
+LoseText = "Get outta my sight kid before I beat ya!"
+Pokemon = SCRAGGY,15
+Pokemon = MACHOP,17,
+Pokemon = SKARMORY,18,
+#-------------------------------
+[BLACKBELT,Dodson]
+LoseText = "We need more training!"
+Pokemon = MACHOP,18,
+Pokemon = MACHOP,20,
+#-------------------------------
+[BEATNIK_F,Sara]
+LoseText = "Aww, I lost!"
+Pokemon = PETILIL,18
+Pokemon = COTTONEE,18
+#-------------------------------
+[FAIRYTALEGIRL,Samantha]
+LoseText = "My fairies gave you too much luck!"
+Pokemon = MYSTIFIN,20,
+Pokemon = SNUBBULL,19,
+#-------------------------------
+[BEATNIK_F,Clara]
+LoseText = "Live on!"
+Pokemon = SWIRLIX,18,
+Pokemon = SPRITZEE,20,
+#-------------------------------
+[GREASER,Lenny]
+LoseText = "Get outta my sight kid before I beat ya!"
+Pokemon = LIEPARD,18,
+#-------------------------------
+[FAIRYTALEGIRL,Christine]
+LoseText = "Next time I'll win!"
+Pokemon = MYSTIFIN,19,
+#-------------------------------
+[GREASER,Johnny]
+LoseText = "Get outta my sight kid before I beat ya!"
+Pokemon = WHIRLIPEDE,20
+#-------------------------------
+[PSYCHIC_M,Robert]
+LoseText = "I forsee me winning against you in the near future!"
+Pokemon = STARIE,20
+#-------------------------------
+[BACKPACKER_M,Tobey]
+LoseText = "Aww, I lost."
+Pokemon = FREEZEMON,20,
+#-------------------------------
+[BACKPACKER_F,Roberta]
+LoseText = "I lost my map!"
+Pokemon = STEELFIN,18,
+#-------------------------------
+[NEUTRINO_GRUNT_DUO, E01 and P01]
+LoseText = "Aww, we lost."
+Pokemon = PURRLOIN,18,
+Pokemon = VENIPEDE,18
+Pokemon = KROKOROK,18
+Pokemon = ZUBAT,18
+#-------------------------------
+[TEAM_NEUTRINO_ADMIN_T,Taurus,1]
+LoseText = "How pathetic."
+Pokemon = ZUBAT,18
+Pokemon = SCRAGGY,18
+Pokemon = MUDPOLE,18
+Pokemon = THESSY,18
+Pokemon = DUITE,19
+#-------------------------------
+[TEAM_NEUTRINO_ADMIN_T,Taurus,2]
+LoseText = "How pathetic."
+Pokemon = GOLBAT,19,
+Pokemon = SCRAGGY,19
+Pokemon = FREEZEMON,19
+Pokemon = THESSY,19
+Pokemon = DUITE,20
+#-------------------------------
+[TEAM_NEUTRINO_ADMIN_T,Taurus,3]
+LoseText = "How pathetic."
+Pokemon = GOLBAT,20,
+Pokemon = SCRAGGY,20
+Pokemon = FREEZEMON,20
+Pokemon = THESSY,20
+Pokemon = DUITE,22
+#-------------------------------
+[BACKPACKER_M,Jeff,1]
+LoseText = "Aww, I lost."
+Pokemon = ELEGAAN,18
+#-------------------------------
+[GREASER,JOE]
+LoseText = "Aww, I lost."
+Pokemon = RATTATA,5,
+Pokemon = RATTATA,5,
+#-------------------------------
+[GREASER,LENNIE]
+LoseText = "Aww, I lost."
+Pokemon = ZUBAT,5
+Pokemon = SHROOMISH,5
+#-------------------------------
+[GREASER,DAVE]
+LoseText = "Aww, I lost."
+Pokemon = ZUBAT,6
+Pokemon = ZUBAT,6
+#-------------------------------
+[GREASER,LENNIE]
+LoseText = "Aww, I lost."
+Pokemon = ZUBAT,5
+Pokemon = SHROOMISH,5
+#-------------------------------
+[BIKER,JONNIE]
+LoseText = "Aww, I lost."
+Pokemon = ZUBAT,5
+Pokemon = KOFFING,5
+#-------------------------------
+[FAIRYTALEGIRL,Jenna]
+LoseText = "Next time I'll win!"
+Pokemon = AROMATISSE,12,
+#-------------------------------
+[BIKER,JOHNNIE]
+LoseText = "Aww, I lost."
+Pokemon = ZUBAT,6,,ABSORB,SUPERSONIC
+#-------------------------------
+[BACKPACKER_M,Mark]
+LoseText = "Aww, I lost."
+Pokemon = MACHOP,22,
+Pokemon = LIEPARD,22,
+Pokemon = WHIRLIPEDE,22,
+#-------------------------------
+[BACKPACKER_M,Jones]
+LoseText = "Aww, I lost."
+Pokemon = MACHOP,23,
+Pokemon = MACHOP,23,
+Pokemon = MACHOKE,23,
+#-------------------------------
+[BACKPACKER_F,Vanessa]
+LoseText = "No fair!"
+Pokemon = STARIE,23,
+Pokemon = STARIE,23,
+Pokemon = PROXIMA,23,
+#-------------------------------
+[BACKPACKER_F,Vivienne]
+LoseText = "Defeated! Oh my!"
+Pokemon = DEERLING,24,
+Pokemon = LIEPARD,24,
+Pokemon = COTTONEE,24,
+#-------------------------------
+[FAIRYTALEGIRL,Chrissa]
+LoseText = "You're too strong!"
+Pokemon = CUTESIE,24,
+Pokemon = PETILIL,24,
+Pokemon = COTTONEE,24,
+#-------------------------------
+[HIKER,Ronny]
+LoseText = "Aww, I lost."
+Pokemon = KOFFING,25,
+Pokemon = CHARJABUG,25,
+Pokemon = RATICATE,25,
+#-------------------------------
+[HIKER,Donny]
+LoseText = "Aww, I lost."
+Pokemon = GRAVELER,26,
+Pokemon = GRAVELER,26,
+Pokemon = GRAVELER,26,
+#-------------------------------
+[BACKPACKER_F,Fannie]
+LoseText = "Next time I'll win!"
+Pokemon = CHARJABUG,27,
+Pokemon = PROXIMA,27,
+Pokemon = TOGEPI,29,
+#-------------------------------
+[BACKPACKER_M,Freddie]
+LoseText = "Aww, I lost."
+Pokemon = PELIPPER,27,
+Pokemon = PROXIMA,27,
+Pokemon = SEALEO,25,
+#-------------------------------
+[FAIRYTALEGIRL,Ginny]
+LoseText = "Aww, I lost."
+Pokemon = TOGEPI,27,
+Pokemon = TOGETIC,27,
+Pokemon = TOGETIC,27,
+#-------------------------------
+[BACKPACKER_M,Franz]
+LoseText = "Aww, I lost."
+Pokemon = SKRELP,27,
+Pokemon = TOMDOLL,27,
