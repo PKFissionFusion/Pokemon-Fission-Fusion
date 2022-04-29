@@ -317,7 +317,7 @@ EndSpeechLose = "Man, I lost!"
 Name = UNGULI
 PokemonNos = 46,47,52,62,64,94,97,102,107
 BeginSpeech = Here I come!
-Type = POKEMONBREEDER
+Type = POKEMONBREEDER_M
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [040]
@@ -325,7 +325,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ISIRNIKA
 PokemonNos = 3,5,18,26,29,95,99,105,107,112,119,122
 BeginSpeech = Here I come!
-Type = POKEMONBREEDER
+Type = POKEMONBREEDER_F
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [041]
@@ -333,7 +333,7 @@ EndSpeechLose = "Man, I lost!"
 Name = UGGA
 PokemonNos = 0,11,21,28,36,48,51,64,105,114,118,119,121
 BeginSpeech = Here I come!
-Type = POKEMONBREEDER
+Type = POKEMONBREEDER_M
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [042]
@@ -341,7 +341,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ASA
 PokemonNos = 3,17,28,30,34,44,60,63,65,79,82,106,107,109,113
 BeginSpeech = Here I come!
-Type = POKEMONBREEDER
+Type = POKEMONBREEDER_M
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [043]
@@ -349,7 +349,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ARKICHA
 PokemonNos = 17,34,46,55,57,84,94,112,113,114
 BeginSpeech = Here I come!
-Type = POKEMONBREEDER
+Type = POKEMONBREEDER_F
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [044]
@@ -413,7 +413,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ASOSTA
 PokemonNos = 7,28,29,50,60,61,68,83,87,107,109
 BeginSpeech = Here I come!
-Type = PAINTER
+Type = ARTIST
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [052]
@@ -421,7 +421,7 @@ EndSpeechLose = "Man, I lost!"
 Name = IPTECHA
 PokemonNos = 9,30,40,46,52,56,82,91,98,103,116,119
 BeginSpeech = Here I come!
-Type = PAINTER
+Type = ARTIST
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [053]
@@ -509,7 +509,7 @@ EndSpeechLose = "Man, I lost!"
 Name = KUSSO
 PokemonNos = 2,18,24,27,32,40,43,45,47,53,60,63,83,84,99,104,107,115
 BeginSpeech = Here I come!
-Type = SUPERNERD
+Type = CAMPER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [064]
@@ -517,7 +517,7 @@ EndSpeechLose = "Man, I lost!"
 Name = GLOROB
 PokemonNos = 5,11,19,38,52,59,62,63,67,74,76,81,84,97,99,102,105,106,108
 BeginSpeech = Here I come!
-Type = CHANELLER
+Type = PSYCHIC_F
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [065]
@@ -525,7 +525,7 @@ EndSpeechLose = "Man, I lost!"
 Name = REG
 PokemonNos = 14,22,32,37,50,66,76,84,115
 BeginSpeech = Here I come!
-Type = CHANELLER
+Type = PSYCHIC_F
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [066]
@@ -533,7 +533,7 @@ EndSpeechLose = "Man, I lost!"
 Name = GRAVIUS
 PokemonNos = 0,3,10,24,30,31,34,35,36,42,48,73,74,78,88,91,96,97,106,114,121
 BeginSpeech = Here I come!
-Type = CHANELLER
+Type = PSYCHIC_F
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [067]
@@ -821,7 +821,7 @@ EndSpeechLose = "Man, I lost!"
 Name = DIN
 PokemonNos = 126,129,147,163,168,187,201,203,233,241,244
 BeginSpeech = Here I come!
-Type = ENGINEER
+Type = WORKER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [103]
@@ -949,7 +949,7 @@ EndSpeechLose = "Man, I lost!"
 Name = OUB
 PokemonNos = 137,142,144,149,179,182,189,191,195,197,209,214,223,227,233,237,245
 BeginSpeech = Here I come!
-Type = ENGINEER
+Type = WORKER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [119]
@@ -957,7 +957,7 @@ EndSpeechLose = "Man, I lost!"
 Name = OUBSAM
 PokemonNos = 146,162,167,180,181,197,204,205,206,245
 BeginSpeech = Here I come!
-Type = ENGINEER
+Type = WORKER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [120]
@@ -965,7 +965,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ENE
 PokemonNos = 133,158,175,176,192,201,232,233,241
 BeginSpeech = Here I come!
-Type = ENGINEER
+Type = WORKER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [121]
@@ -1045,7 +1045,7 @@ EndSpeechLose = "Man, I lost!"
 Name = NESSIKA
 PokemonNos = 126,133,157,168,192,210,211,221,222,241
 BeginSpeech = Here I come!
-Type = PAINTER
+Type = ARTIST
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [131]
@@ -1053,7 +1053,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ARESTA
 PokemonNos = 126,140,142,150,175,189,192,235,240
 BeginSpeech = Here I come!
-Type = PAINTER
+Type = ARTIST
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [132]
@@ -1061,7 +1061,7 @@ EndSpeechLose = "Man, I lost!"
 Name = OLILI
 PokemonNos = 124,132,137,147,156,165,188,190,208,220,221
 BeginSpeech = Here I come!
-Type = PAINTER
+Type = ARTIST
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [133]
@@ -1069,7 +1069,7 @@ EndSpeechLose = "Man, I lost!"
 Name = RESTA
 PokemonNos = 123,125,139,174,178,182,189,195,198,216,233,238
 BeginSpeech = Here I come!
-Type = PAINTER
+Type = ARTIST
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [134]
@@ -1077,7 +1077,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ONDRA
 PokemonNos = 251,267,271,295,308,309,318,321,327,333,335,351,364,365
 BeginSpeech = Here I come!
-Type = PAINTER
+Type = ARTIST
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [135]
@@ -1141,7 +1141,7 @@ EndSpeechLose = "Man, I lost!"
 Name = LEZUS
 PokemonNos = 246,250,252,253,267,269,287,291,292,294,295,300,302,303,310,325,330,349,354,355,363,368
 BeginSpeech = Here I come!
-Type = SAILOR
+Type = WORKER2
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [143]
@@ -1149,7 +1149,7 @@ EndSpeechLose = "Man, I lost!"
 Name = MIJECS
 PokemonNos = 270,300,301,302,308,309,316,326,340,345,356,364,366,367
 BeginSpeech = Here I come!
-Type = SAILOR
+Type = WORKER2
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [144]
@@ -1157,7 +1157,7 @@ EndSpeechLose = "Man, I lost!"
 Name = NYAVUL
 PokemonNos = 248,249,266,277,300,309,321,324,325,327,329,340,342,347
 BeginSpeech = Here I come!
-Type = SAILOR
+Type = WORKER2
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [145]
@@ -1165,7 +1165,7 @@ EndSpeechLose = "Man, I lost!"
 Name = KINGIUS
 PokemonNos = 253,275,284,292,294,295,299,304,314,339,343,354
 BeginSpeech = Here I come!
-Type = SAILOR
+Type = WORKER2
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [146]
@@ -1173,7 +1173,7 @@ EndSpeechLose = "Man, I lost!"
 Name = GRALSIUS
 PokemonNos = 253,270,272,284,295,306,312,314,321,335,341,344,360
 BeginSpeech = Here I come!
-Type = SAILOR
+Type = WORKER2
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [147]
@@ -1181,7 +1181,7 @@ EndSpeechLose = "Man, I lost!"
 Name = RAO
 PokemonNos = 276,278,279,288,306,320,330,343,347,360
 BeginSpeech = Here I come!
-Type = SUPERNERD
+Type = CAMPER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [148]
@@ -1189,7 +1189,7 @@ EndSpeechLose = "Man, I lost!"
 Name = BOH
 PokemonNos = 249,268,269,272,280,287,288,293,305,309,322,335,349,355,365
 BeginSpeech = Here I come!
-Type = SUPERNERD
+Type = CAMPER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [149]
@@ -1261,7 +1261,7 @@ EndSpeechLose = "Man, I lost!"
 Name = GOO
 PokemonNos = 246,253,258,269,286,295,306,313,335,343,347,355,362
 BeginSpeech = Here I come!
-Type = POKEMANIAC
+Type = POKEFAN_M
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [158]
@@ -1341,7 +1341,7 @@ EndSpeechLose = "Man, I lost!"
 Name = OPTUCHA
 PokemonNos = 290,298,301,321,322,326,337,351,361
 BeginSpeech = Here I come!
-Type = CRUSHGIRL
+Type = BATTLEGIRL
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [168]
@@ -1389,7 +1389,7 @@ EndSpeechLose = "Man, I lost!"
 Name = RAKT
 PokemonNos = 252,255,258,259,262,266,270,279,301,306,309,315,323,328,329,332,342,354
 BeginSpeech = Here I come!
-Type = TAMER
+Type = BIRDKEEPER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [174]
@@ -1397,7 +1397,7 @@ EndSpeechLose = "Man, I lost!"
 Name = MAH
 PokemonNos = 260,275,308,310,317,329,331,333,336,350,356,362,363
 BeginSpeech = Here I come!
-Type = TAMER
+Type = BIRDKEEPER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [175]
@@ -1445,7 +1445,7 @@ EndSpeechLose = "Man, I lost!"
 Name = RAMIL
 PokemonNos = 252,253,259,262,265,271,273,281,283,295,304,306,308,315,322,328,342,354
 BeginSpeech = Here I come!
-Type = SUPERNERD
+Type = CAMPER
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [181]
@@ -1453,7 +1453,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ARAY
 PokemonNos = 246,254,256,257,261,270,286,294,302,304,305,310,315,321,325,330,342,359,362,367
 BeginSpeech = Here I come!
-Type = YOUNGCOUPLE
+Type = BEATNIK_F
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [182]
@@ -1461,7 +1461,7 @@ EndSpeechLose = "Man, I lost!"
 Name = ANGIFS
 PokemonNos = 260,263,264,276,281,298,306,309,311,325,329
 BeginSpeech = Here I come!
-Type = YOUNGCOUPLE
+Type = BEATNIK_F
 EndSpeechWin = "Yes, I won!"
 #-------------------------------
 [183]

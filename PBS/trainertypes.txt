@@ -131,3 +131,4 @@
 128,ELITEFOUR_RADIO,Elite Four,110,41 Elite 4 Battle.ogg,Battle victory.ogg,,Female,200,
 129,ELITEFOUR_DARK,Elite Four,110,41 Elite 4 Battle.ogg,Battle victory.ogg,,Female,200,
 130,ELITEFOUR_PSYCHIC,Elite Four,110,41 Elite 4 Battle.ogg,Battle victory.ogg,,Female,200,
+131,CHAMPION,Champion,110,41 Elite 4 Battle.ogg,Battle victory.ogg,,Female,200,

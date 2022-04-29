@@ -227,7 +227,7 @@ LoseText = "You're too good for me!"
 Pokemon = WINGULL,11,
 Pokemon = DEEDEE,13
 #-------------------------------
-[BIKER_1,Ross]
+[BIKER,Ross]
 LoseText = "Awe, I lost!"
 Pokemon = KOFFING,16
 Pokemon = SEVIPER,16,
@@ -492,7 +492,7 @@ LoseText = "You're too good for me!"
 Pokemon = PURRLOIN,16,
 Pokemon = LIEPARD,18
 #-------------------------------
-[PAINTER,Winston]
+[ARTIST,Winston]
 LoseText = "Happy little accidents."
 Pokemon = DEERLING,15,
 Pokemon = ADORAVOLE,15
