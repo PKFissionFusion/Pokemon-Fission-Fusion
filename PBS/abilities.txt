@@ -268,18 +268,20 @@
 266,ASONEICE,As One,"Possesses 2 abilities, Unnerve and Chilling Neigh"
 267,ASONEGHOST,As One,"Possesses 2 abilities, Unnerve and Grim Neigh"
 #-------------------------------------------------------------------------------
-268,DRAINBOOST,Drain Boost,Boosts the power of most Draining and Leech moves.
+268,DRAINBOOST,Drain Boost,Boosts the power of most Draining moves.
 269,RADIATE,Radiate,Normal-type moves become Radioactive-type moves.
 270,TRICKYSURGE,Tricky Surge,Generates a Trick Room for 5 turns whenever the user enters the field.
 271,ROUGERAGE,Rouge Rage,Raises attack and lowers accuracy vs red or pink foes.
 272,RADBOOST,Radboost,Raises power of special moves when radsick.
 273,SICKLYTOUCH,Sickly Touch,30% chance for opponent to get radsick upon contact.
 274,FLAMMABLESKIN,Flammable Skin,User takes 1/4 hp in recoil if they use a Fire-type move vs the opponent.
-275,RADDRIZZLE,Acid Call,User summons an acid rainstorm upon entry.
+275,EXPLOSIVESKIN,Explosive Skin,User takes 1/4 hp in recoil if they use a contact move vs the opponent."
 276,WINDCHAMBER,Wind Chamber,"User increases its allies' speed by 10% upon entry."
 277,ARENACLEAR,Arena Clear,"User nullifies the effects of terrain on the field."
-278,THIRSTYROOTS,Thirsty Roots,"User doubles the healing power of Ingrain and Leech Seed."
+278,THIRSTYROOTS,Thirsty Roots,"User increases the power of Ingrain and Leech Seed."
 279,UNCHAINING,Unchaining,"Those that dare disturb Totemmon's meditation must face its wrath."
 280,CLAIRVOYANT,Clairvoyant,"Future Sight and charge moves take 1 less turn, at the cost of power."
 281,ICYAURA,Icy Aura,"Powers up each Pokémon's Ice-type moves."
 282,BUBBLINGSKIN,Bubbling Skin,User takes 1/4 hp in recoil if they use a Water-type move vs the opponent.
+283,FERTILESOIL,Fertile Soil,"User increases the power of allies' grass moves."
+284,VINDICTIVE,Vindictive,"User gains an attack stage if it reaches below half health."

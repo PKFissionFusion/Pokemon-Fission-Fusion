@@ -768,7 +768,7 @@
 748,RAGINGFURY,Raging Fury,0D2,120,FIRE,Physical,95,10,0,RandomNearFoe,0,abef,"The user rampages and spews vicious flames to inflict damage on the target, then becomes fixated on using this move."
 749,WAVECRASH,Wave Crash,206,90,WATER,Physical,100,10,100,NearOther,0,abef,"The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user and raises the user’s action speed."
 750,CHLOROBLAST,Chloroblast,207,140,GRASS,Special,100,5,50,NearOther,0,bef,"The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user and lowers the user’s action speed."
-751,MOUNTAINGALE,Mountain Gale,000,120,ICE,Physical,95,5,0,NearOther,0,bef,"The user hurls giant chunks of ice at the target to inflict damage."
+751,MOUNTAINGALE,Mountain Gale,044,100,ICE,Physical,95,5,0,NearOther,0,bef,"The user hurls giant chunks of ice at the target to inflict damage."
 752,VICTORYDANCE,Victory Dance,208,0,FIGHTING,Status,0,5,0,User,0,do,"The user performs a dance to usher in victory. This raises the user’s offensive and defensive stats and increases the damage dealt by the user’s moves by 50 percent."
 753,HEADLONGRUSH,Headlong Rush,03C,120,GROUND,Physical,100,5,0,NearOther,0,abef,"The user smashes into the target in a full-body tackle. This also lowers the user’s defensive stats."
 754,BARBBARRAGE,Barb Barrage,209,75,POISON,Physical,100,15,10,NearOther,0,bef,"The user launches countless toxic barbs to inflict damage. This may also poison the target. This move’s power is doubled if the target has a status condition."
@@ -797,3 +797,8 @@
 776,IRRADIATE,Irradiate,CF7,0,RADIOACTIVE,Status,90,10,0,NearOther,0,bce,"A move that leaves the target with radiation sickness."
 777,ICEEDGE,Ice Edge,000,100,ICE,Physical,80,5,0,NearOther,0,befh,The user stabs the foe with sharpened blocks of ice from below. It has a high critical-hit ratio.
 778,SUNNYSTRIKE,Sunny Strike,0FF,110,FIRE,Physical,75,5,0,NearOther,0,befh,The user stabs the foe with sharpened blocks of ice from below. It has a high critical-hit ratio.
+779,DOUBLETAP,Double Tap,0BD,35,FAIRY,Physical,90,10,0,NearOther,0,abef,"The user slams the target with magical feet. The target is hit twice in a row."
+780,PARADIDDLE,Paraddidle,0C0,18,FAIRY,Physical,80,15,0,NearOther,0,abef,"The target is raked with magical feet for two to five times in quick succession."
+781,RUNNINGFLAP,Running Flap,10B,120,FAIRY,Physical,95,10,0,NearOther,0,abef,"The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself."
+782,SNOWBURROW,Snow Burrow,CFA,80,ICE,Physical,100,10,0,NearOther,0,abef,"The user hides in the snow, then attacks on the second turn. It can also be used to exit dungeons."
+783,SNOWPLOW,Snow Plow,044,60,ICE,Physical,100,20,100,AllNearOthers,0,bef,"The user strikes everything around it by stomping on the ground. It reduces hit Pokémon's Speed."
