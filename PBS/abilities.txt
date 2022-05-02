@@ -276,7 +276,7 @@
 273,SICKLYTOUCH,Sickly Touch,30% chance for opponent to get radsick upon contact.
 274,FLAMMABLESKIN,Flammable Skin,User takes 1/4 hp in recoil if they use a Fire-type move vs the opponent.
 275,RADDRIZZLE,Acid Call,User summons an acid rainstorm upon entry.
-276,WINDCHAMBER,Wind Chamber,"User increases its allies' speed by 10% upon entry for 3 turns."
+276,WINDCHAMBER,Wind Chamber,"User increases its allies' speed by 10% upon entry."
 277,ARENACLEAR,Arena Clear,"User nullifies the effects of terrain on the field."
 278,THIRSTYROOTS,Thirsty Roots,"User doubles the healing power of Ingrain and Leech Seed."
 279,UNCHAINING,Unchaining,"Those that dare disturb Totemmon's meditation must face its wrath."
