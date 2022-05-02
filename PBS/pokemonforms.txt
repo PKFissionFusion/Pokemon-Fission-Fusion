@@ -3273,8 +3273,7 @@ FormName = Mega Fermeon
 MegaStone = EEVEELUTIONITE
 BaseStats = 68,165,95,110,65,115
 BaseEXP = 309
-Abilities = INNERFOCUS
-HiddenAbility = INNERFOCUS
+Abilities = RADIATE
 Weight = 56.4
 Generation = 6
 #-------------------------------
@@ -3561,6 +3560,12 @@ Abilities = OVERCOAT
 HiddenAbility = OVERCOAT
 Shape = Quadruped
 Pokedex = A different guise from its feminine humanoid form. From the clouds, it descends upon those who treat any form of life with disrespect and metes out wrathful, ruthless punishment.
+BattlerEnemyX = -1
+BattlerEnemyY = 14
+#-------------------------------
+[TOTEMMON,1]
+FormName = Unchained Form
+BaseStats = 70,80,50,120,100,90 
 BattlerEnemyX = -1
 BattlerEnemyY = 14
 #-------------------------------
