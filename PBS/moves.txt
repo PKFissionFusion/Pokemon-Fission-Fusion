@@ -784,7 +784,7 @@
 764,LUNARBLESSING,Lunar Blessing,214,0,PSYCHIC,Status,0,10,0,User,0,d,"The user heals its own status conditions and restores its HP. Incoming moves also become more likely to miss."
 765,TAKEHEART,Take Heart,215,0,PSYCHIC,Status,0,10,0,User,0,d,"The user lifts its spirits, healing its own status conditions and raising its offensive and defensive stats."
 #-------------------------------
-766,ALPHABLAST,Alpha Blast,CF7,110,RADIOACTIVE,Special,85,5,10,NearOther,0,bef,"The foe is attacked with an intense blast of alpha particles. It may also leave the target with a burn."
+766,ALPHABLAST,Alpha Blast,CF7,110,RADIOACTIVE,Special,85,5,10,NearOther,0,bef,"The foe is attacked with an intense blast of alpha particles. It may also leave the target with radsick."
 767,GLITTERSTRIKE,Glittering Strike,000,40,FAIRY,Physical,100,30,0,NearOther,1,abef,The user bathes itself in glittering fairy magic to propel itself at at the opponent. It is sure to strike first.
 768,GAMMABEAM,Gamma Beam,CF7,95,RADIOACTIVE,Special,95,15,10,NearOther,0,bef,"The foe is attacked with an intense beam of gamma radiation. It may also leave the target with radiation sickness."
 769,GAMMASHOT,Gamma Shot,CF7,50,RADIOACTIVE,Special,100,25,10,NearOther,0,bef,"The foe is attacked with a short beam of gamma radiation. It may also leave the target with radiation sickness."
@@ -802,3 +802,7 @@
 781,RUNNINGFLAP,Running Flap,10B,120,FAIRY,Physical,95,10,0,NearOther,0,abef,"The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself."
 782,SNOWBURROW,Snow Burrow,CFA,80,ICE,Physical,100,10,0,NearOther,0,abef,"The user hides in the snow, then attacks on the second turn. It can also be used to exit dungeons."
 783,SNOWPLOW,Snow Plow,044,60,ICE,Physical,100,20,100,AllNearOthers,0,bef,"The user strikes everything around it by stomping on the ground. It reduces hit Pokémon's Speed."
+784,MEGATON,Megaton,0E0,250,RADIOACTIVE,Physical,100,5,0,AllNearOthers,0,bef,"The user explodes to inflict damage on those around it. The user faints upon using this move."
+785,FIZZLE,Fizzle,CF7,40,RADIOACTIVE,Special,100,25,10,NearOther,0,bef,"The target is attacked with a sharp dose of radiation. It may also leave the target radsick."
+786,COLDCELL,Cold Cell,000,0,RADIOACTIVE,Status,100,5,0,User,0,d,"The user generates cold fusion power, raising its stats for three turns."
+787,DUSTHEAL,Dust Heal,0DB,0,GROUND,Status,0,20,0,User,0,d,"The user filter feeds from the air tot restore its HP on every turn. Because it is rooted, it can't switch out."
