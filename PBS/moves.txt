@@ -788,7 +788,7 @@
 767,DRONESTRIKE,Drone Strike,000,90,BUG,Physical,100,10,0,NearOther,0,befn,"User commands an army of termites to attack the foe. Doubles in power if foe is under the effect of Infestation."
 768,DARKQUIVER,Dark Quiver,023,0,DARK,Status,0,30,0,User,0,d,"User infuses its bow with evil thoughts to land a max number hits in a multistrike move. Raises Crit stage by 1."
 769,FRENZY,Frenzy,023,0,DARK,Status,0,30,0,User,0,d,"Causes user to go into a frenzy, temporarily doubling its attack but reducing their accuracy. Confuses after the effect is over."
-770,STRIKESTORM,Strike Storm,0C0,15,DARK,Physical,100,20,0,NearOther,0,abef,"User fires a volley of 2-5 punches, each with an increased critical hit ratio."
+770,STRIKESTORM,Strike Storm,0C0,15,DARK,Physical,100,20,0,NearOther,0,abefh,"User fires a volley of 2-5 punches, each with an increased critical hit ratio."
 771,DRAGONBREAK,Dragon Break,07F,65,DRAGON,Physical,100,10,0,NearOther,0,bef,"Doubles in power if the foe is trapped. Frees the foe from trapping."
 772,DRAGONPROPHECY,Dragon Prophecy,111,120,DRAGON,Special,100,10,0,NearOther,0,,"Two turns after this move is used, a hunk of draconic energy attacks the target."
 773,DRAGONSNARE,Dragon Snare,0CF,20,DRAGON,Physical,100,20,0,NearOther,0,abef,"User attacks the foe, preventing them from swapping out for 4-5 turns."
