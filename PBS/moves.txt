@@ -824,7 +824,7 @@
 803,ICYBLAST,Icy Blast,CFD,60,ICE,Special,100,20,0,User,0,d,"Power doubles in hail. Power halved in any other weather. Power unaffected in neutral weather."
 804,WINTERCOAT,Winter Coat,DA4,0,NORMAL,Status,0,10,0,User,0,d,"The user protects itself by growing a thick, winter coat, drastically raising its Defense stat."
 805,PEIRCINGSHIEK,Peircing Shriek,07D,70,NORMAL,Physical,100,10,0,NearOther,0,bk,"This attack inflicts big damage on a sleeping target. It also wakes the target up, however."
-806,SLUDGEYTERRAIN,Sludgy Terrain,D06,0,POISON,Status,0,10,0,BothSides,0,,"Damages non-poison and steel Pokémon and powers up Poison-type moves for five turns."
+806,SLUDGYTERRAIN,Sludgy Terrain,D06,0,POISON,Status,0,10,0,BothSides,0,,"Damages non-poison and steel Pokémon and powers up Poison-type moves for five turns."
 807,OOZINGJAB,Oozing Jab,D08,60,POISON,Physical,100,20,30,NearOther,0,abef,"The target is stabbed with a tentacle or arm seeped with poison. Doubles in sludgy terrain. It may also poison the target."
 808,OOZINGWAVE,Oozing Wave,D08,60,POISON,Special,100,20,30,NearOther,0,abef,"The target is stabbed with a tentacle or arm seeped with poison. Doubles in sludgy terrain. It may also poison the target."
 809,ANTIFREEZE,Antifreeze,CFB,70,POISON,Special,100,20,10,NearOther,0,bef,"User releases a toxic gas that melts ice. Super effective against Ice-type pokemon."
