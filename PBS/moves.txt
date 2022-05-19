@@ -828,7 +828,7 @@
 807,OOZINGJAB,Oozing Jab,D08,60,POISON,Physical,100,20,30,NearOther,0,abef,"The target is stabbed with a tentacle or arm seeped with poison. Doubles in sludgy terrain. It may also poison the target."
 808,OOZINGWAVE,Oozing Wave,D08,60,POISON,Special,100,20,30,NearOther,0,abef,"The target is stabbed with a tentacle or arm seeped with poison. Doubles in sludgy terrain. It may also poison the target."
 809,ANTIFREEZE,Antifreeze,CFB,70,POISON,Special,100,20,10,NearOther,0,bef,"User releases a toxic gas that melts ice. Super effective against Ice-type pokemon."
-810,CORRODE,Corrosive Gas,CFC,70,POISON,Special,100,20,10,NearOther,0,bef,"User releases a cloud of corrosive gas. Super effective against Steel-type pokemon."
+810,CORRODE,Corrode,CFC,70,POISON,Special,100,20,10,NearOther,0,bef,"User releases a cloud of corrosive gas. Super effective against Steel-type pokemon."
 811,CLEARSTRIKE,Clear Strike,DA6,60,PSYCHIC,Physical,100,10,30,NearOther,0,abef,"Power doubles if the user used meditate the turn before."
 812,FUTUREPROOF,Futureproof,DA7,0,PSYCHIC,Status,0,20,0,FoeSide,0,d,"User raises the Special Defense of all radioactive type pokemon on the field, including itself."
 813,ALPHABLAST,Alpha Bast,CF7,110,RADIOACTIVE,Special,85,5,10,NearOther,0,bef,"The foe is attacked with an intense blast of alpha particles. It may also leave the target with radsick."
